@@ -6,7 +6,14 @@ A curated list of automated machine learning papers, articles, tutorials, slides
 
 + [Papers](#papers)
   - [Bayesian Optimization](#bayesian-optimization)
+  - [Meta Learning](#meta-learning)
++ [Tutorials](#tutorials)
+  - [Meta Learning](#meta-learning)
++ [Books](#books)
+  - [Meta Learning](#meta-learning)
 + [Projects](#projects)
+  - [Meta Learning](#meta-learning)
++ [Competitions](#competitions)
 
 # Papers
 ### Bayesian Optimization
@@ -15,15 +22,30 @@ A curated list of automated machine learning papers, articles, tutorials, slides
 + 2013 | Auto-WEKA: Combined Selection and Hyperparameter Optimization of Classification Algorithms | [`PDF`](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/papers/autoweka.pdf)
 + 2012 | Practical Bayesian Optimization of Machine Learning Algorithms | [`PDF`](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
 + 2011 | Sequential Model-Based Optimization for General Algorithm Configuration(extended version) | [`PDF`](https://www.cs.ubc.ca/~hutter/papers/10-TR-SMAC.pdf)
+### Meta Learning
++ 2008 | Cross-Disciplinary Perspectives on Meta-Learning for Algorithm Selection | [`PDF`](https://dl.acm.org/citation.cfm?id=1456656)
+
+# Tutorials
+### Meta Learning
++ 2008 | Metalearning - A Tutorial | Christophe Giraud-Carrier | [`PDF`](https://pdfs.semanticscholar.org/5794/1a4891f673cadf06fba02419372aad85c3bb.pdf)
+
+# Books
+### Meta Learning
++ 2009 | Metalearning - Applications to Data Mining | Prof. Pavel Brazdil | Springer | [`PDF`](http://www.springer.com/la/book/9783540732624)
 
 # Projects
-+ advisor | `Python` | `Open-source` | [`Code`](https://github.com/tobegit3hub/advisor)
-+ auto-sklearn | `Python` | `Open-source` | [`Code`](https://github.com/automl/auto-sklearn)
-+ auto-weka | `Java` | `Open-source` | [`Code`](https://github.com/automl/autoweka)
-+ hyperopt | `Python` | `Open-source` | [`Code`](https://github.com/hyperopt/hyperopt)
-+ hyperopt-sklearn | `Python` | `Open-source` | [`Code`](https://github.com/hyperopt/hyperopt-sklearn)
++ Advisor | `Python` | `Open Source` | [`Code`](https://github.com/tobegit3hub/advisor)
++ auto-sklearn | `Python` | `Open Source` | [`Code`](https://github.com/automl/auto-sklearn)
++ Auto-WEKA | `Java` | `Open Source` | [`Code`](https://github.com/automl/autoweka)
++ Hyperopt | `Python` | `Open Source` | [`Code`](https://github.com/hyperopt/hyperopt)
++ Hyperopt-sklearn | `Python` | `Open Source` | [`Code`](https://github.com/hyperopt/hyperopt-sklearn)
 + SigOpt | `Python` | `Commercial` | [`Link`](https://sigopt.com/)
-+ SMAC3 | `Python` | `Open-source` | [`Code`](https://github.com/automl/SMAC3)
++ SMAC3 | `Python` | `Open Source` | [`Code`](https://github.com/automl/SMAC3)
+
+# Competitions
++ AutoML2018 challenge | Nov 30, 2017 - March 15, 2018 | 4Paradigm, ChaLearn | [`Link`](https://competitions.codalab.org/competitions/17767)
+
+
 
 
 # Licenses
