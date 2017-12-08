@@ -26,12 +26,14 @@ A curated list of automated machine learning papers, articles, tutorials, slides
 + 2008 | Cross-Disciplinary Perspectives on Meta-Learning for Algorithm Selection | [`PDF`](https://dl.acm.org/citation.cfm?id=1456656)
 
 # Tutorials
+### Bayesian Optimization
++ 2010 | A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning | [`PDF`](https://arxiv.org/pdf/1012.2599v1.pdf)
 ### Meta Learning
-+ 2008 | Metalearning - A Tutorial | Christophe Giraud-Carrier | [`PDF`](https://pdfs.semanticscholar.org/5794/1a4891f673cadf06fba02419372aad85c3bb.pdf)
++ 2008 | Metalearning - A Tutorial | [`PDF`](https://pdfs.semanticscholar.org/5794/1a4891f673cadf06fba02419372aad85c3bb.pdf)
 
 # Books
 ### Meta Learning
-+ 2009 | Metalearning - Applications to Data Mining | Prof. Pavel Brazdil | Springer | [`PDF`](http://www.springer.com/la/book/9783540732624)
++ 2009 | Metalearning - Applications to Data Mining | Springer | [`PDF`](http://www.springer.com/la/book/9783540732624)
 
 # Projects
 + Advisor | `Python` | `Open Source` | [`Code`](https://github.com/tobegit3hub/advisor)
@@ -41,12 +43,11 @@ A curated list of automated machine learning papers, articles, tutorials, slides
 + Hyperopt-sklearn | `Python` | `Open Source` | [`Code`](https://github.com/hyperopt/hyperopt-sklearn)
 + SigOpt | `Python` | `Commercial` | [`Link`](https://sigopt.com/)
 + SMAC3 | `Python` | `Open Source` | [`Code`](https://github.com/automl/SMAC3)
++ RoBO | `Python` | `Open Source` | [`Code`](https://github.com/automl/RoBO)
++ BayesianOptimization | `Python` | `Open Source` | [`Code`](https://github.com/fmfn/BayesianOptimization)
 
 # Competitions
 + AutoML2018 challenge | Nov 30, 2017 - March 15, 2018 | 4Paradigm, ChaLearn | [`Link`](https://competitions.codalab.org/competitions/17767)
-
-
-
 
 # Licenses
 Awesome-AutoML-Papers is available under Apache Licenses 2.0.
