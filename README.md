@@ -8,7 +8,10 @@ A curated list of automated machine learning papers, articles, tutorials, slides
   - [Bayesian Optimization](#bayesian-optimization)
   - [Meta Learning](#meta-learning)
 + [Tutorials](#tutorials)
+  - [Bayesian Optimization](#bayesian-optimization)
   - [Meta Learning](#meta-learning)
++ [Slides](#slides)
+  - [Bayesian Optimization](#bayesian-optimization)
 + [Books](#books)
   - [Meta Learning](#meta-learning)
 + [Projects](#projects)
@@ -30,6 +33,11 @@ A curated list of automated machine learning papers, articles, tutorials, slides
 + 2010 | A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning | [`PDF`](https://arxiv.org/pdf/1012.2599v1.pdf)
 ### Meta Learning
 + 2008 | Metalearning - A Tutorial | [`PDF`](https://pdfs.semanticscholar.org/5794/1a4891f673cadf06fba02419372aad85c3bb.pdf)
+
+# Slides
+### Bayesian Optimization
++ Bayesian Optimisation | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resource/slides/%5Bslides%5D-bayesian-optimisation.pdf)
++ A Tutorial on Bayesian Optimization for Machine Learning | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resource/slides/%5Bslides%5D-a-tutorial-on-bayesian-optimization-for-machine-learning.pdf)
 
 # Books
 ### Meta Learning
