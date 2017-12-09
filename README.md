@@ -2,6 +2,24 @@
 
 A curated list of automated machine learning papers, articles, tutorials, slides and projects.
 
+# Introduction to AutoML
+Machine learning (ML) has achieved considerable successes in recent years and an ever-growing number of disciplines rely on it. However, this success crucially relies on human machine learning experts to perform the following tasks:
++ Preprocess the data
++ Select appropriate features
++ Select an appropriate model family
++ Optimize model hyperparameters
++ Postprocess machine learning models
++ Critically analyze the results obtained.
+
+As the complexity of these tasks is often beyond non-ML-experts, the rapid growth of machine learning applications has created a demand for off-the-shelf machine learning methods that can be used easily and without expert knowledge. We call the resulting research area that targets progressive automation of machine learning *AutoML*.
+
+AutoML draws on many disciplines of machine learning, prominently including
++ Bayesian optimization
++ Regression models for structured data and big data
++ Meta learning
++ Transfer learning, and
++ Combinatorial optimization.
+
 # Table of Contents
 
 + [Papers](#papers)
@@ -9,6 +27,8 @@ A curated list of automated machine learning papers, articles, tutorials, slides
   - [Meta Learning](#meta-learning)
 + [Tutorials](#tutorials)
   - [Bayesian Optimization](#bayesian-optimization)
+  - [Meta Learning](#meta-learning)
++ [Articles](#articles)
   - [Meta Learning](#meta-learning)
 + [Slides](#slides)
   - [Bayesian Optimization](#bayesian-optimization)
@@ -33,6 +53,10 @@ A curated list of automated machine learning papers, articles, tutorials, slides
 + 2010 | A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning | [`PDF`](https://arxiv.org/pdf/1012.2599v1.pdf)
 ### Meta Learning
 + 2008 | Metalearning - A Tutorial | [`PDF`](https://pdfs.semanticscholar.org/5794/1a4891f673cadf06fba02419372aad85c3bb.pdf)
+
+# Articles
+### Meta Learning
+2017 | Why Meta-learning is Crucial for Further Advances of Artificial Intelligence? | [`Link`](https://chatbotslife.com/why-meta-learning-is-crucial-for-further-advances-of-artificial-intelligence-c2df55959adf)
 
 # Slides
 ### Bayesian Optimization
