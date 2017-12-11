@@ -84,6 +84,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + SMAC3 | `Python` | `Open Source` | [`Code`](https://github.com/automl/SMAC3)
 + RoBO | `Python` | `Open Source` | [`Code`](https://github.com/automl/RoBO)
 + BayesianOptimization | `Python` | `Open Source` | [`Code`](https://github.com/fmfn/BayesianOptimization)
++ Scikit-Optimize | `Python` | `Open Source` | [`Code`](https://github.com/scikit-optimize/scikit-optimize)
 
 # Competitions
 + AutoML2018 challenge | Nov 30, 2017 - March 15, 2018 | 4Paradigm, ChaLearn | [`Link`](https://competitions.codalab.org/competitions/17767)
