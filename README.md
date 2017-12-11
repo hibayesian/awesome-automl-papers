@@ -25,6 +25,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + [Papers](#papers)
   - [Bayesian Optimization](#bayesian-optimization)
   - [Meta Learning](#meta-learning)
+  - [Random Search](#random-search)
 + [Tutorials](#tutorials)
   - [Bayesian Optimization](#bayesian-optimization)
   - [Meta Learning](#meta-learning)
@@ -48,6 +49,8 @@ AutoML draws on many disciplines of machine learning, prominently including
 + 2011 | Sequential Model-Based Optimization for General Algorithm Configuration(extended version) | [`PDF`](https://www.cs.ubc.ca/~hutter/papers/10-TR-SMAC.pdf)
 ### Meta Learning
 + 2008 | Cross-Disciplinary Perspectives on Meta-Learning for Algorithm Selection | [`PDF`](https://dl.acm.org/citation.cfm?id=1456656)
+### Random Search
++ 2012 | Random Search for Hyper-Parameter Optimization | James Bergstra, Yoshua Bengio | JMLR | [`PDF`](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
 
 # Tutorials
 ### Bayesian Optimization
