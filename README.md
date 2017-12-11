@@ -29,6 +29,7 @@ AutoML draws on many disciplines of machine learning, prominently including
   - [Bayesian Optimization](#bayesian-optimization)
   - [Meta Learning](#meta-learning)
 + [Articles](#articles)
+  - [Bayesian Optimization](#bayesian-optimization)
   - [Meta Learning](#meta-learning)
 + [Slides](#slides)
   - [Bayesian Optimization](#bayesian-optimization)
@@ -55,6 +56,8 @@ AutoML draws on many disciplines of machine learning, prominently including
 + 2008 | Metalearning - A Tutorial | [`PDF`](https://pdfs.semanticscholar.org/5794/1a4891f673cadf06fba02419372aad85c3bb.pdf)
 
 # Articles
+### Bayesian Optimization
++ 2016 | Bayesian Optimization for Hyperparameter Tuning | [`Link`](https://arimo.com/data-science/2016/bayesian-optimization-hyperparameter-tuning/)
 ### Meta Learning
 + 2017 | Why Meta-learning is Crucial for Further Advances of Artificial Intelligence? | [`Link`](https://chatbotslife.com/why-meta-learning-is-crucial-for-further-advances-of-artificial-intelligence-c2df55959adf)
 + 2017 | Learning to learn | [`Link`](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
