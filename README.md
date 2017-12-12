@@ -26,7 +26,7 @@ AutoML draws on many disciplines of machine learning, prominently including
   - [Bayesian Optimization](#bayesian-optimization)
   - [Meta Learning](#meta-learning)
   - [Random Search](#random-search)
-  - [Reinforcement Learning](#reinforcement-learning)
+  - [Reinforcement Learning](#reinforcement-learning)
 + [Tutorials](#tutorials)
   - [Bayesian Optimization](#bayesian-optimization)
   - [Meta Learning](#meta-learning)
