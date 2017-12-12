@@ -50,6 +50,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 ### Meta Learning
 + 2008 | Cross-Disciplinary Perspectives on Meta-Learning for Algorithm Selection | [`PDF`](https://dl.acm.org/citation.cfm?id=1456656)
 ### Random Search
++ 2016 | Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization | Lisha Li, Kevin Jamieson, etc. | arXiv |  [`PDF`](https://arxiv.org/pdf/1603.06560.pdf)
 + 2012 | Random Search for Hyper-Parameter Optimization | James Bergstra, Yoshua Bengio | JMLR | [`PDF`](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
 
 # Tutorials
@@ -85,6 +86,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + RoBO | `Python` | `Open Source` | [`Code`](https://github.com/automl/RoBO)
 + BayesianOptimization | `Python` | `Open Source` | [`Code`](https://github.com/fmfn/BayesianOptimization)
 + Scikit-Optimize | `Python` | `Open Source` | [`Code`](https://github.com/scikit-optimize/scikit-optimize)
++ HyperBand | `Python` | `Open Source` | [`Code`](https://github.com/zygmuntz/hyperband)
 
 # Competitions
 + AutoML2018 challenge | Nov 30, 2017 - March 15, 2018 | 4Paradigm, ChaLearn | [`Link`](https://competitions.codalab.org/competitions/17767)
