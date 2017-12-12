@@ -26,6 +26,7 @@ AutoML draws on many disciplines of machine learning, prominently including
   - [Bayesian Optimization](#bayesian-optimization)
   - [Meta Learning](#meta-learning)
   - [Random Search](#random-search)
+  - [Reinforcement Learning](#reinforcement-learning)
 + [Tutorials](#tutorials)
   - [Bayesian Optimization](#bayesian-optimization)
   - [Meta Learning](#meta-learning)
@@ -52,6 +53,8 @@ AutoML draws on many disciplines of machine learning, prominently including
 ### Random Search
 + 2016 | Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization | Lisha Li, Kevin Jamieson, etc. | arXiv |  [`PDF`](https://arxiv.org/pdf/1603.06560.pdf)
 + 2012 | Random Search for Hyper-Parameter Optimization | James Bergstra, Yoshua Bengio | JMLR | [`PDF`](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
+### Reinforcement Learning
++ 2010 | Feature Selection as a One-Player Game | Romaric Gaudel, Michele Sebag | ICML | [`PDF`](https://hal.archives-ouvertes.fr/inria-00484049/document)
 
 # Tutorials
 ### Bayesian Optimization
