@@ -27,6 +27,7 @@ AutoML draws on many disciplines of machine learning, prominently including
   - [Meta Learning](#meta-learning)
   - [Random Search](#random-search)
   - [Reinforcement Learning](#reinforcement-learning)
+  - [Transfer Learning](#transfer-learning)
 + [Tutorials](#tutorials)
   - [Bayesian Optimization](#bayesian-optimization)
   - [Meta Learning](#meta-learning)
@@ -55,6 +56,8 @@ AutoML draws on many disciplines of machine learning, prominently including
 + 2012 | Random Search for Hyper-Parameter Optimization | James Bergstra, Yoshua Bengio | JMLR | [`PDF`](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
 ### Reinforcement Learning
 + 2010 | Feature Selection as a One-Player Game | Romaric Gaudel, Michele Sebag | ICML | [`PDF`](https://hal.archives-ouvertes.fr/inria-00484049/document)
+### Transfer Learning
++ 2016 | Flexible Transfer Learning Framework for Bayesian Optimisation | Tinu Theckel Joy, etc. | PAKDD | [`PDF`](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_9)
 
 # Tutorials
 ### Bayesian Optimization
