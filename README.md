@@ -25,6 +25,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + [Papers](#papers)
   - [Bayesian Optimization](#bayesian-optimization)
   - [Meta Learning](#meta-learning)
+  - [Particle Swarm Optimization](#particle-swarm-optimization)
   - [Random Search](#random-search)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Transfer Learning](#transfer-learning)
@@ -51,6 +52,9 @@ AutoML draws on many disciplines of machine learning, prominently including
 + 2011 | Sequential Model-Based Optimization for General Algorithm Configuration(extended version) | [`PDF`](https://www.cs.ubc.ca/~hutter/papers/10-TR-SMAC.pdf)
 ### Meta Learning
 + 2008 | Cross-Disciplinary Perspectives on Meta-Learning for Algorithm Selection | [`PDF`](https://dl.acm.org/citation.cfm?id=1456656)
+### Particle Swarm Optimization
++ 2017 | Particle swarm optimization for hyper-parameter selection in deep neural networks | Pablo Ribalta Lorenzo, etc. | GECCO | [`PDF`](https://dl.acm.org/citation.cfm?id=3071208)
++ 2008 | Particle swarm optimization for parameter determination and feature selection of support vector machines | Shih-Wei Lin, etc. | Expert Systems with Applications | [`PDF`](http://www.sciencedirect.com/science/article/pii/S0957417407003752)
 ### Random Search
 + 2016 | Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization | Lisha Li, Kevin Jamieson, etc. | arXiv |  [`PDF`](https://arxiv.org/pdf/1603.06560.pdf)
 + 2012 | Random Search for Hyper-Parameter Optimization | James Bergstra, Yoshua Bengio | JMLR | [`PDF`](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
