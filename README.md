@@ -41,7 +41,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + [Books](#books)
   - [Meta Learning](#meta-learning)
 + [Projects](#projects)
-  - [Meta Learning](#meta-learning)
++ [Prominent Researchers](#prominent-researchers)
 + [Competitions](#competitions)
 
 # Papers
@@ -103,6 +103,9 @@ AutoML draws on many disciplines of machine learning, prominently including
 + BayesOpt | `C++` | `Open Source` | [`Code`](https://github.com/rmcantin/bayesopt)
 + Optunity | `Python` | `Open Source` | [`Code`](https://github.com/claesenm/optunity)
 + TPOT | `Python` | `Open Source` | [`Code`](https://github.com/rhiever/tpot)
+
+# Prominent Researchers
++ [Frank Hutter](http://www.cs.ubc.ca/~hutter/)
 
 # Competitions
 + AutoML2018 challenge | Nov 30, 2017 - March 15, 2018 | 4Paradigm, ChaLearn | [`Link`](https://competitions.codalab.org/competitions/17767)
