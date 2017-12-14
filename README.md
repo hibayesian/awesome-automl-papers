@@ -102,6 +102,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + HyperBand | `Python` | `Open Source` | [`Code`](https://github.com/zygmuntz/hyperband)
 + BayesOpt | `C++` | `Open Source` | [`Code`](https://github.com/rmcantin/bayesopt)
 + Optunity | `Python` | `Open Source` | [`Code`](https://github.com/claesenm/optunity)
++ TPOT | `Python` | `Open Source` | [`Code`](https://github.com/rhiever/tpot)
 
 # Competitions
 + AutoML2018 challenge | Nov 30, 2017 - March 15, 2018 | 4Paradigm, ChaLearn | [`Link`](https://competitions.codalab.org/competitions/17767)
