@@ -97,6 +97,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + BayesianOptimization | `Python` | `Open Source` | [`Code`](https://github.com/fmfn/BayesianOptimization)
 + Scikit-Optimize | `Python` | `Open Source` | [`Code`](https://github.com/scikit-optimize/scikit-optimize)
 + HyperBand | `Python` | `Open Source` | [`Code`](https://github.com/zygmuntz/hyperband)
++ BayesOpt | `C++` | `Open Source` | [`Code`](https://github.com/rmcantin/bayesopt)
 
 # Competitions
 + AutoML2018 challenge | Nov 30, 2017 - March 15, 2018 | 4Paradigm, ChaLearn | [`Link`](https://competitions.codalab.org/competitions/17767)
