@@ -105,7 +105,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + TPOT | `Python` | `Open Source` | [`Code`](https://github.com/rhiever/tpot)
 
 # Prominent Researchers
-+ [Frank Hutter](http://www.cs.ubc.ca/~hutter/)
++ [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/index.html)
 
 # Competitions
 + AutoML2018 challenge | Nov 30, 2017 - March 15, 2018 | 4Paradigm, ChaLearn | [`Link`](https://competitions.codalab.org/competitions/17767)
