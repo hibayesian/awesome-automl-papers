@@ -24,6 +24,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 
 + [Papers](#papers)
   - [Bayesian Optimization](#bayesian-optimization)
+  - [Local Search](#local-search)
   - [Meta Learning](#meta-learning)
   - [Particle Swarm Optimization](#particle-swarm-optimization)
   - [Random Search](#random-search)
@@ -50,18 +51,20 @@ AutoML draws on many disciplines of machine learning, prominently including
 + 2013 | Auto-WEKA: Combined Selection and Hyperparameter Optimization of Classification Algorithms | [`PDF`](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/papers/autoweka.pdf)
 + 2012 | Practical Bayesian Optimization of Machine Learning Algorithms | [`PDF`](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
 + 2011 | Sequential Model-Based Optimization for General Algorithm Configuration(extended version) | [`PDF`](https://www.cs.ubc.ca/~hutter/papers/10-TR-SMAC.pdf)
+### Local Search
++ 2009 | ParamILS: An Automatic Algorithm Configuration Framework | Frank Hutter, et al. | JAIR | [`PDF`](https://arxiv.org/pdf/1401.3492.pdf)
 ### Meta Learning
 + 2008 | Cross-Disciplinary Perspectives on Meta-Learning for Algorithm Selection | [`PDF`](https://dl.acm.org/citation.cfm?id=1456656)
 ### Particle Swarm Optimization
-+ 2017 | Particle swarm optimization for hyper-parameter selection in deep neural networks | Pablo Ribalta Lorenzo, etc. | GECCO | [`PDF`](https://dl.acm.org/citation.cfm?id=3071208)
-+ 2008 | Particle swarm optimization for parameter determination and feature selection of support vector machines | Shih-Wei Lin, etc. | Expert Systems with Applications | [`PDF`](http://www.sciencedirect.com/science/article/pii/S0957417407003752)
++ 2017 | Particle swarm optimization for hyper-parameter selection in deep neural networks | Pablo Ribalta Lorenzo, et al. | GECCO | [`PDF`](https://dl.acm.org/citation.cfm?id=3071208)
++ 2008 | Particle swarm optimization for parameter determination and feature selection of support vector machines | Shih-Wei Lin, et al. | Expert Systems with Applications | [`PDF`](http://www.sciencedirect.com/science/article/pii/S0957417407003752)
 ### Random Search
-+ 2016 | Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization | Lisha Li, Kevin Jamieson, etc. | arXiv |  [`PDF`](https://arxiv.org/pdf/1603.06560.pdf)
++ 2016 | Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization | Lisha Li, et al. | arXiv |  [`PDF`](https://arxiv.org/pdf/1603.06560.pdf)
 + 2012 | Random Search for Hyper-Parameter Optimization | James Bergstra, Yoshua Bengio | JMLR | [`PDF`](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
 ### Reinforcement Learning
 + 2010 | Feature Selection as a One-Player Game | Romaric Gaudel, Michele Sebag | ICML | [`PDF`](https://hal.archives-ouvertes.fr/inria-00484049/document)
 ### Transfer Learning
-+ 2016 | Flexible Transfer Learning Framework for Bayesian Optimisation | Tinu Theckel Joy, etc. | PAKDD | [`PDF`](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_9)
++ 2016 | Flexible Transfer Learning Framework for Bayesian Optimisation | Tinu Theckel Joy, et al. | PAKDD | [`PDF`](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_9)
 
 # Tutorials
 ### Bayesian Optimization
