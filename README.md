@@ -106,6 +106,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 
 # Prominent Researchers
 + [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/index.html)
++ [Randal S. Olson](http://www.randalolson.com/)
 
 # Competitions
 + AutoML2018 challenge | Nov 30, 2017 - March 15, 2018 | 4Paradigm, ChaLearn | [`Link`](https://competitions.codalab.org/competitions/17767)
