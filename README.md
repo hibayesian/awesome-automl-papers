@@ -24,12 +24,14 @@ AutoML draws on many disciplines of machine learning, prominently including
 
 + [Papers](#papers)
   - [Bayesian Optimization](#bayesian-optimization)
+  - [Lipschitz Functions](#lipschitz-Functions)
   - [Local Search](#local-search)
   - [Meta Learning](#meta-learning)
   - [Particle Swarm Optimization](#particle-swarm-optimization)
   - [Random Search](#random-search)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Transfer Learning](#transfer-learning)
+  - [Miscellaneous](#miscellaneous)
 + [Tutorials](#tutorials)
   - [Bayesian Optimization](#bayesian-optimization)
   - [Meta Learning](#meta-learning)
@@ -46,11 +48,12 @@ AutoML draws on many disciplines of machine learning, prominently including
 
 # Papers
 ### Bayesian Optimization
-+ 2017 | Google Vizier: A Service for Black-Box Optimization | [`PDF`](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46180.pdf)
 + 2015 | Efficient and Robust Automated Machine Learning | [`PDF`](https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)
 + 2013 | Auto-WEKA: Combined Selection and Hyperparameter Optimization of Classification Algorithms | [`PDF`](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/papers/autoweka.pdf)
 + 2012 | Practical Bayesian Optimization of Machine Learning Algorithms | [`PDF`](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
 + 2011 | Sequential Model-Based Optimization for General Algorithm Configuration(extended version) | [`PDF`](https://www.cs.ubc.ca/~hutter/papers/10-TR-SMAC.pdf)
+###  Lipschitz Functions
++ 2017 | Global optimization of Lipschitz functions | C´edric Malherbe, Nicolas Vayatis | arXiv | [`PDF`](https://arxiv.org/pdf/1703.02628.pdf)
 ### Local Search
 + 2009 | ParamILS: An Automatic Algorithm Configuration Framework | Frank Hutter, et al. | JAIR | [`PDF`](https://arxiv.org/pdf/1401.3492.pdf)
 ### Meta Learning
@@ -65,6 +68,9 @@ AutoML draws on many disciplines of machine learning, prominently including
 + 2010 | Feature Selection as a One-Player Game | Romaric Gaudel, Michele Sebag | ICML | [`PDF`](https://hal.archives-ouvertes.fr/inria-00484049/document)
 ### Transfer Learning
 + 2016 | Flexible Transfer Learning Framework for Bayesian Optimisation | Tinu Theckel Joy, et al. | PAKDD | [`PDF`](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_9)
+### Miscellaneous
+ + 2017 | Google Vizier: A Service for Black-Box Optimization | Daniel Golovin, et al. | KDD |[`PDF`](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46180.pdf)
+ + 2017 | ATM: A distributed, collaborative, scalable system for automated machine learning | T. Swearingen, et al. | IEEE Big Data | [`PDF`](https://cyphe.rs/static/atm.pdf)
 
 # Tutorials
 ### Bayesian Optimization
