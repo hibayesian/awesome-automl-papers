@@ -24,7 +24,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 
 + [Papers](#papers)
   - [Bayesian Optimization](#bayesian-optimization)
-  - [Lipschitz Functions](#lipschitz-Functions)
+  - [Lipschitz Functions](#lipschitz-functions)
   - [Local Search](#local-search)
   - [Meta Learning](#meta-learning)
   - [Particle Swarm Optimization](#particle-swarm-optimization)
@@ -48,6 +48,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 
 # Papers
 ### Bayesian Optimization
++ 2016 | Taking the Human Out of the Loop: A Review of Bayesian Optimization | Bobak Shahriari, et al. | IEEE | [`PDF`](http://ieeexplore.ieee.org/document/7352306/)
 + 2015 | Efficient and Robust Automated Machine Learning | [`PDF`](https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)
 + 2013 | Auto-WEKA: Combined Selection and Hyperparameter Optimization of Classification Algorithms | [`PDF`](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/papers/autoweka.pdf)
 + 2012 | Practical Bayesian Optimization of Machine Learning Algorithms | [`PDF`](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
@@ -70,7 +71,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + 2016 | Flexible Transfer Learning Framework for Bayesian Optimisation | Tinu Theckel Joy, et al. | PAKDD | [`PDF`](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_9)
 ### Miscellaneous
  + 2017 | Google Vizier: A Service for Black-Box Optimization | Daniel Golovin, et al. | KDD |[`PDF`](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46180.pdf)
- + 2017 | ATM: A distributed, collaborative, scalable system for automated machine learning | T. Swearingen, et al. | IEEE Big Data | [`PDF`](https://cyphe.rs/static/atm.pdf)
+ + 2017 | ATM: A distributed, collaborative, scalable system for automated machine learning | T. Swearingen, et al. | IEEE | [`PDF`](https://cyphe.rs/static/atm.pdf)
 
 # Tutorials
 ### Bayesian Optimization
