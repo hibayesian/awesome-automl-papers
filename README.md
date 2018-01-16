@@ -110,6 +110,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + BayesOpt | `C++` | `Open Source` | [`Code`](https://github.com/rmcantin/bayesopt)
 + Optunity | `Python` | `Open Source` | [`Code`](https://github.com/claesenm/optunity)
 + TPOT | `Python` | `Open Source` | [`Code`](https://github.com/rhiever/tpot)
++ ATM | `Python` | `Open Source` | [`Code`](https://github.com/HDI-Project/ATM)
 
 # Prominent Researchers
 + [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/index.html)
