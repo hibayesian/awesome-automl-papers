@@ -31,6 +31,7 @@ AutoML draws on many disciplines of machine learning, prominently including
   - [Random Search](#random-search)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Transfer Learning](#transfer-learning)
+  - [Feature Engineering](#feature-engineering)
   - [Miscellaneous](#miscellaneous)
 + [Tutorials](#tutorials)
   - [Bayesian Optimization](#bayesian-optimization)
@@ -70,6 +71,8 @@ AutoML draws on many disciplines of machine learning, prominently including
 + 2010 | Feature Selection as a One-Player Game | Romaric Gaudel, Michele Sebag | ICML | [`PDF`](https://hal.archives-ouvertes.fr/inria-00484049/document)
 ### Transfer Learning
 + 2016 | Flexible Transfer Learning Framework for Bayesian Optimisation | Tinu Theckel Joy, et al. | PAKDD | [`PDF`](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_9)
+### Feature Engineering
++ 2015 | Deep feature synthesis: Towards automating data science endeavors | James Max Kanter, Kalyan Veeramachaneni | IEEE | [`PDF`](http://ieeexplore.ieee.org/document/7344858/)
 ### Miscellaneous
  + 2017 | Google Vizier: A Service for Black-Box Optimization | Daniel Golovin, et al. | KDD |[`PDF`](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46180.pdf)
  + 2017 | ATM: A distributed, collaborative, scalable system for automated machine learning | T. Swearingen, et al. | IEEE | [`PDF`](https://cyphe.rs/static/atm.pdf)
