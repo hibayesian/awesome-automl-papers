@@ -115,6 +115,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + Optunity | `Python` | `Open Source` | [`Code`](https://github.com/claesenm/optunity)
 + TPOT | `Python` | `Open Source` | [`Code`](https://github.com/rhiever/tpot)
 + ATM | `Python` | `Open Source` | [`Code`](https://github.com/HDI-Project/ATM)
++ Clound AutoML | [`Link`](https://cloud.google.com/automl/)
 
 # Prominent Researchers
 + [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/index.html)
