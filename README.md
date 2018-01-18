@@ -57,7 +57,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + 2012 | Practical Bayesian Optimization of Machine Learning Algorithms | [`PDF`](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
 + 2011 | Sequential Model-Based Optimization for General Algorithm Configuration(extended version) | [`PDF`](https://www.cs.ubc.ca/~hutter/papers/10-TR-SMAC.pdf)
 ### Evolutionary Algorithms
-+ 2017 | Large-Scale Evolution of Image Classifiers | Esteban Real, et al. | PRML | [`PDF`](https://arxiv.org/pdf/1703.01041.pdf)
++ 2017 | Large-Scale Evolution of Image Classifiers | Esteban Real, et al. | PMLR | [`PDF`](https://arxiv.org/pdf/1703.01041.pdf)
 ###  Lipschitz Functions
 + 2017 | Global Optimization of Lipschitz functions | C´edric Malherbe, Nicolas Vayatis | arXiv | [`PDF`](https://arxiv.org/pdf/1703.02628.pdf)
 ### Local Search
