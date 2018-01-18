@@ -25,6 +25,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + [Papers](#papers)
   - [Bayesian Optimization](#bayesian-optimization)
   - [Evolutionary Algorithms](#evolutionary-algorithms)
+  - [Feature Engineering](#feature-engineering)
   - [Lipschitz Functions](#lipschitz-functions)
   - [Local Search](#local-search)
   - [Meta Learning](#meta-learning)
@@ -32,7 +33,6 @@ AutoML draws on many disciplines of machine learning, prominently including
   - [Random Search](#random-search)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Transfer Learning](#transfer-learning)
-  - [Feature Engineering](#feature-engineering)
   - [Miscellaneous](#miscellaneous)
 + [Tutorials](#tutorials)
   - [Bayesian Optimization](#bayesian-optimization)
@@ -51,13 +51,17 @@ AutoML draws on many disciplines of machine learning, prominently including
 # Papers
 ### Bayesian Optimization
 + 2016 | Taking the Human Out of the Loop: A Review of Bayesian Optimization | Bobak Shahriari, et al. | IEEE | [`PDF`](http://ieeexplore.ieee.org/document/7352306/)
++ 2016 | Towards Automatically-Tuned Neural Networks | Hector Mendoza, et al. | JMLR | [`PDF`](http://aad.informatik.uni-freiburg.de/papers/16-AUTOML-AutoNet.pdf)
 + 2015 | Efficient and Robust Automated Machine Learning | [`PDF`](https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)
 + 2015 | Scalable Bayesian optimization using deep neural networks | Jasper Snoek, et al. | ACM | [`PDF`](https://dl.acm.org/citation.cfm?id=3045349)
 + 2013 | Auto-WEKA: Combined Selection and Hyperparameter Optimization of Classification Algorithms | [`PDF`](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/papers/autoweka.pdf)
++ 2013 | Making a Science of Model Search: Hyperparameter Optimization in Hundreds of Dimensions for Vision Architectures | J. Bergstra | JMLR | [`PDF`](http://proceedings.mlr.press/v28/bergstra13.pdf)
 + 2012 | Practical Bayesian Optimization of Machine Learning Algorithms | [`PDF`](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
 + 2011 | Sequential Model-Based Optimization for General Algorithm Configuration(extended version) | [`PDF`](https://www.cs.ubc.ca/~hutter/papers/10-TR-SMAC.pdf)
 ### Evolutionary Algorithms
 + 2017 | Large-Scale Evolution of Image Classifiers | Esteban Real, et al. | PMLR | [`PDF`](https://arxiv.org/pdf/1703.01041.pdf)
+### Feature Engineering
++ 2015 | Deep feature synthesis: Towards automating data science endeavors | James Max Kanter, Kalyan Veeramachaneni | IEEE | [`PDF`](http://ieeexplore.ieee.org/document/7344858/)
 ###  Lipschitz Functions
 + 2017 | Global Optimization of Lipschitz functions | C´edric Malherbe, Nicolas Vayatis | arXiv | [`PDF`](https://arxiv.org/pdf/1703.02628.pdf)
 ### Local Search
@@ -70,13 +74,12 @@ AutoML draws on many disciplines of machine learning, prominently including
 ### Random Search
 + 2016 | Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization | Lisha Li, et al. | arXiv |  [`PDF`](https://arxiv.org/pdf/1603.06560.pdf)
 + 2012 | Random Search for Hyper-Parameter Optimization | James Bergstra, Yoshua Bengio | JMLR | [`PDF`](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
++ 2011 | Algorithms for Hyper-parameter Optimization | James Bergstra, et al. | NIPS | [`PDF`](https://dl.acm.org/citation.cfm?id=2986743)
 ### Reinforcement Learning
 + 2017 | Neural Architecture Search with Reinforcement Learning | Barret Zoph, Quoc V. Le | ICLR | [`PDF`](https://arxiv.org/pdf/1611.01578.pdf)
 + 2010 | Feature Selection as a One-Player Game | Romaric Gaudel, Michele Sebag | ICML | [`PDF`](https://hal.archives-ouvertes.fr/inria-00484049/document)
 ### Transfer Learning
 + 2016 | Flexible Transfer Learning Framework for Bayesian Optimisation | Tinu Theckel Joy, et al. | PAKDD | [`PDF`](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_9)
-### Feature Engineering
-+ 2015 | Deep feature synthesis: Towards automating data science endeavors | James Max Kanter, Kalyan Veeramachaneni | IEEE | [`PDF`](http://ieeexplore.ieee.org/document/7344858/)
 ### Miscellaneous
  + 2017 | Google Vizier: A Service for Black-Box Optimization | Daniel Golovin, et al. | KDD |[`PDF`](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46180.pdf)
  + 2017 | ATM: A Distributed, Collaborative, Scalable System for Automated Machine Learning | T. Swearingen, et al. | IEEE | [`PDF`](https://cyphe.rs/static/atm.pdf)
