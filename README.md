@@ -24,7 +24,10 @@ AutoML draws on many disciplines of machine learning, prominently including
 
 + [Papers](#papers)
   - [Automated Feature Engineering](#automated-feature-engineering)
-    - [Expand-Reduce](#expand-reduce)
+    - [Expand Reduce](#expand-reduce)
+    - [Reinforcement Learning](#reinforcement-learning)
+  - [Architecture Search](#architecture-search)
+    - [Meta Learning](#meta-learning)
   - [Hyperparameter Optimization](#hyperparameter-optimization)
     - [Bayesian Optimization](#bayesian-optimization)
     - [Evolutionary Algorithms](#evolutionary-algorithms)
@@ -35,7 +38,6 @@ AutoML draws on many disciplines of machine learning, prominently including
     - [Random Search](#random-search)
     - [Reinforcement Learning](#reinforcement-learning)
     - [Transfer Learning](#transfer-learning)
-  - [Architecture Search](#architecture-search)
   - [Frameworks](#frameworks)
   - [Miscellaneous](#miscellaneous)
 + [Tutorials](#tutorials)
@@ -54,6 +56,19 @@ AutoML draws on many disciplines of machine learning, prominently including
 
 # Papers
 ### Automated Feature Engineering
++ #### Expand Reduce
+  - 2015 | Deep Feature Synthesis: Towards Automating Data Science Endeavors | James Max Kanter, Kalyan Veeramachaneni | DSAA | [`PDF`](http://www.jmaxkanter.com/static/papers/DSAA_DSM_2015.pdf)
++ #### Reinforcement Learning
+  - 2010 | Feature Selection as a One-Player Game | Romaric Gaudel, Michele Sebag | ICML | [`PDF`](https://hal.archives-ouvertes.fr/inria-00484049/document)
+### Architecture Search
++ #### Meta Learning
+  - 2016 | Learning to Optimize | Ke Li, Jitendra Malik | arXiv | [`PDF`](https://arxiv.org/pdf/1606.01885.pdf)
++ #### Reinforcement Learning  
+  - 2017 | Neural Architecture Search with Reinforcement Learning | Barret Zoph, Quoc V. Le | ICLR | [`PDF`](https://arxiv.org/pdf/1611.01578.pdf)
+### Frameworks
++ 2017 | Google Vizier: A Service for Black-Box Optimization | Daniel Golovin, et al. | KDD |[`PDF`](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46180.pdf)
++ 2017 | ATM: A Distributed, Collaborative, Scalable System for Automated Machine Learning | T. Swearingen, et al. | IEEE | [`PDF`](https://cyphe.rs/static/atm.pdf)
++ 2015 | AutoCompete: A Framework for Machine Learning Competitions | Abhishek Thakur, et al. | ICML | [`PDF`](https://arxiv.org/pdf/1507.02188.pdf)
 ### Hyperparameter Optimization
 + #### Bayesian Optimization
   - 2016 | Bayesian Optimization with Robust Bayesian Neural Networks | Jost Tobias Springenberg， et al. | NIPS | [`PDF`](https://papers.nips.cc/paper/6117-bayesian-optimization-with-robust-bayesian-neural-networks.pdf)
@@ -81,18 +96,11 @@ AutoML draws on many disciplines of machine learning, prominently including
   - 2012 | Random Search for Hyper-Parameter Optimization | James Bergstra, Yoshua Bengio | JMLR | [`PDF`](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
   - 2011 | Algorithms for Hyper-parameter Optimization | James Bergstra, et al. | NIPS | [`PDF`](https://dl.acm.org/citation.cfm?id=2986743)
 + #### Reinforcement Learning
-  - 2010 | Feature Selection as a One-Player Game | Romaric Gaudel, Michele Sebag | ICML | [`PDF`](https://hal.archives-ouvertes.fr/inria-00484049/document)
+  
 + #### Transfer Learning
   - 2016 | Efficient Transfer Learning Method for Automatic Hyperparameter Tuning | Dani Yogatama, Gideon Mann | JMLR | [`PDF`](https://pdfs.semanticscholar.org/75f2/6734972ebaffc6b43d45abd3048ef75f15a5.pdf)
   - 2016 | Flexible Transfer Learning Framework for Bayesian Optimisation | Tinu Theckel Joy, et al. | PAKDD | [`PDF`](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_9)
   - 2013 | Collaborative Hyperparameter Tuning | R´emi Bardenet, et al. | ICML | [`PDF`](http://proceedings.mlr.press/v28/bardenet13.pdf) 
-### Architecture Search
-+ 2017 | Neural Architecture Search with Reinforcement Learning | Barret Zoph, Quoc V. Le | ICLR | [`PDF`](https://arxiv.org/pdf/1611.01578.pdf)
-+ 2016 | Learning to Optimize | Ke Li, Jitendra Malik | arXiv | [`PDF`](https://arxiv.org/pdf/1606.01885.pdf)
-### Frameworks
-+ 2017 | Google Vizier: A Service for Black-Box Optimization | Daniel Golovin, et al. | KDD |[`PDF`](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46180.pdf)
-+ 2017 | ATM: A Distributed, Collaborative, Scalable System for Automated Machine Learning | T. Swearingen, et al. | IEEE | [`PDF`](https://cyphe.rs/static/atm.pdf)
-+ 2015 | AutoCompete: A Framework for Machine Learning Competitions | Abhishek Thakur, et al. | ICML | [`PDF`](https://arxiv.org/pdf/1507.02188.pdf)
 ### Miscellaneous
 + 2015 | Deep feature synthesis: Towards automating data science endeavors | James Max Kanter, Kalyan Veeramachaneni | IEEE | [`PDF`](http://ieeexplore.ieee.org/document/7344858/)
 
