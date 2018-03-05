@@ -28,6 +28,7 @@ AutoML draws on many disciplines of machine learning, prominently including
     - [Reinforcement Learning](#reinforcement-learning)
   - [Architecture Search](#architecture-search)
     - [Meta Learning](#meta-learning)
+    - [Reinforcement Learning](#reinforcement-learning)
   - [Hyperparameter Optimization](#hyperparameter-optimization)
     - [Bayesian Optimization](#bayesian-optimization)
     - [Evolutionary Algorithms](#evolutionary-algorithms)
@@ -36,7 +37,6 @@ AutoML draws on many disciplines of machine learning, prominently including
     - [Meta Learning](#meta-learning)
     - [Particle Swarm Optimization](#particle-swarm-optimization)
     - [Random Search](#random-search)
-    - [Reinforcement Learning](#reinforcement-learning)
     - [Transfer Learning](#transfer-learning)
   - [Frameworks](#frameworks)
   - [Miscellaneous](#miscellaneous)
@@ -95,14 +95,11 @@ AutoML draws on many disciplines of machine learning, prominently including
   - 2016 | Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization | Lisha Li, et al. | arXiv |  [`PDF`](https://arxiv.org/pdf/1603.06560.pdf)
   - 2012 | Random Search for Hyper-Parameter Optimization | James Bergstra, Yoshua Bengio | JMLR | [`PDF`](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
   - 2011 | Algorithms for Hyper-parameter Optimization | James Bergstra, et al. | NIPS | [`PDF`](https://dl.acm.org/citation.cfm?id=2986743)
-+ #### Reinforcement Learning
-  
 + #### Transfer Learning
   - 2016 | Efficient Transfer Learning Method for Automatic Hyperparameter Tuning | Dani Yogatama, Gideon Mann | JMLR | [`PDF`](https://pdfs.semanticscholar.org/75f2/6734972ebaffc6b43d45abd3048ef75f15a5.pdf)
   - 2016 | Flexible Transfer Learning Framework for Bayesian Optimisation | Tinu Theckel Joy, et al. | PAKDD | [`PDF`](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_9)
   - 2013 | Collaborative Hyperparameter Tuning | R´emi Bardenet, et al. | ICML | [`PDF`](http://proceedings.mlr.press/v28/bardenet13.pdf) 
 ### Miscellaneous
-+ 2015 | Deep feature synthesis: Towards automating data science endeavors | James Max Kanter, Kalyan Veeramachaneni | IEEE | [`PDF`](http://ieeexplore.ieee.org/document/7344858/)
 
 # Tutorials
 ### Bayesian Optimization
