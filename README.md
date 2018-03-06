@@ -25,6 +25,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + [Papers](#papers)
   - [Automated Feature Engineering](#automated-feature-engineering)
     - [Expand Reduce](#expand-reduce)
+    - [Hierarchical Organization of transformations](#hierarchical-organization-of-transformations)
     - [Reinforcement Learning](#reinforcement-learning)
   - [Architecture Search](#architecture-search)
     - [Meta Learning](#meta-learning)
@@ -61,6 +62,8 @@ AutoML draws on many disciplines of machine learning, prominently including
   - 2017 | One button machine for automating feature engineering in relational databases | Hoang Thanh Lam, et al. | arXiv | [`PDF`](https://arxiv.org/pdf/1706.00327.pdf)
   - 2016 | ExploreKit: Automatic Feature Generation and Selection | Gilad Katz, et al. | ICDM | [`PDF`](http://ieeexplore.ieee.org/document/7837936/)
   - 2015 | Deep Feature Synthesis: Towards Automating Data Science Endeavors | James Max Kanter, Kalyan Veeramachaneni | DSAA | [`PDF`](http://www.jmaxkanter.com/static/papers/DSAA_DSM_2015.pdf)
++ #### Hierarchical Organization of Transformations
+  - 2016 | Cognito: Automated Feature Engineering for Supervised Learning | Udayan Khurana, et al. | ICDMW | [`PDF`](http://ieeexplore.ieee.org/document/7836821/)
 + #### Reinforcement Learning
   - 2010 | Feature Selection as a One-Player Game | Romaric Gaudel, Michele Sebag | ICML | [`PDF`](https://hal.archives-ouvertes.fr/inria-00484049/document)
 ### Architecture Search
