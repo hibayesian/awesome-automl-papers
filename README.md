@@ -26,6 +26,7 @@ AutoML draws on many disciplines of machine learning, prominently including
   - [Automated Feature Engineering](#automated-feature-engineering)
     - [Expand Reduce](#expand-reduce)
     - [Hierarchical Organization of Transformations](#hierarchical-organization-of-transformations)
+    - [Meta Learning](#meta-learning)
     - [Reinforcement Learning](#reinforcement-learning)
   - [Architecture Search](#architecture-search)
     - [Meta Learning](#meta-learning)
@@ -54,7 +55,6 @@ AutoML draws on many disciplines of machine learning, prominently including
   - [Meta Learning](#meta-learning)
 + [Projects](#projects)
 + [Prominent Researchers](#prominent-researchers)
-+ [Competitions](#competitions)
 
 # Papers
 ### Automated Feature Engineering
@@ -64,7 +64,10 @@ AutoML draws on many disciplines of machine learning, prominently including
   - 2015 | Deep Feature Synthesis: Towards Automating Data Science Endeavors | James Max Kanter, Kalyan Veeramachaneni | DSAA | [`PDF`](http://www.jmaxkanter.com/static/papers/DSAA_DSM_2015.pdf)
 + #### Hierarchical Organization of Transformations
   - 2016 | Cognito: Automated Feature Engineering for Supervised Learning | Udayan Khurana, et al. | ICDMW | [`PDF`](http://ieeexplore.ieee.org/document/7836821/)
++ #### Meta Learning
+  - 2017 | Learning Feature Engineering for Classification | Fatemeh Nargesian, et al. | IJCAI | [`PDF`](https://www.ijcai.org/proceedings/2017/0352.pdf)
 + #### Reinforcement Learning
+  - 2017 | Feature Engineering for Predictive Modeling using Reinforcement Learning | Udayan Khurana, et al. | arXiv | [`PDF`](https://arxiv.org/pdf/1709.07150.pdf)
   - 2010 | Feature Selection as a One-Player Game | Romaric Gaudel, Michele Sebag | ICML | [`PDF`](https://hal.archives-ouvertes.fr/inria-00484049/document)
 ### Architecture Search
 + #### Meta Learning
@@ -110,6 +113,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + #### Transfer Learning
   - 2016 | Efficient Transfer Learning Method for Automatic Hyperparameter Tuning | Dani Yogatama, Gideon Mann | JMLR | [`PDF`](https://pdfs.semanticscholar.org/75f2/6734972ebaffc6b43d45abd3048ef75f15a5.pdf)
   - 2016 | Flexible Transfer Learning Framework for Bayesian Optimisation | Tinu Theckel Joy, et al. | PAKDD | [`PDF`](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_9)
+  - 2016 | Hyperparameter Optimization Machines | Martin Wistuba, et al. | DSAA | [`PDF`](http://ieeexplore.ieee.org/abstract/document/7796889/)
   - 2013 | Collaborative Hyperparameter Tuning | R´emi Bardenet, et al. | ICML | [`PDF`](http://proceedings.mlr.press/v28/bardenet13.pdf) 
 ### Miscellaneous
 - 2017 | Automatic Frankensteining: Creating Complex Ensembles Autonomously | Martin Wistuba, et al. | SIAM | [`PDF`](http://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.83)
@@ -160,9 +164,6 @@ AutoML draws on many disciplines of machine learning, prominently including
 # Prominent Researchers
 + [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/index.html) | University of Freiburg
 + [Martin Wistuba](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Martin.Wistuba) | IBM Research
-
-# Competitions
-+ AutoML2018 challenge | Nov 30, 2017 - March 15, 2018 | 4Paradigm, ChaLearn | [`Link`](https://competitions.codalab.org/competitions/17767)
 
 # Licenses
 Awesome-AutoML-Papers is available under Apache Licenses 2.0.
