@@ -29,6 +29,7 @@ AutoML draws on many disciplines of machine learning, prominently including
   - [Architecture Search](#architecture-search)
     - [Meta Learning](#meta-learning)
     - [Reinforcement Learning](#reinforcement-learning)
+    - [Transfer Learning](#transfer-learning)
   - [Hyperparameter Optimization](#hyperparameter-optimization)
     - [Bayesian Optimization](#bayesian-optimization)
     - [Evolutionary Algorithms](#evolutionary-algorithms)
@@ -66,6 +67,8 @@ AutoML draws on many disciplines of machine learning, prominently including
   - 2016 | Learning to Optimize | Ke Li, Jitendra Malik | arXiv | [`PDF`](https://arxiv.org/pdf/1606.01885.pdf)
 + #### Reinforcement Learning  
   - 2017 | Neural Architecture Search with Reinforcement Learning | Barret Zoph, Quoc V. Le | ICLR | [`PDF`](https://arxiv.org/pdf/1611.01578.pdf)
++ #### Transfer Learning
+  - 2017 | Learning Transferable Architectures for Scalable Image Recognition | Barret Zoph, et al. | arXiv | [`PDF`](https://arxiv.org/abs/1707.07012)
 ### Frameworks
 + 2017 | Google Vizier: A Service for Black-Box Optimization | Daniel Golovin, et al. | KDD |[`PDF`](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46180.pdf)
 + 2017 | ATM: A Distributed, Collaborative, Scalable System for Automated Machine Learning | T. Swearingen, et al. | IEEE | [`PDF`](https://cyphe.rs/static/atm.pdf)
