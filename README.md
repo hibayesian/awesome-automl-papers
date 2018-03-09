@@ -101,6 +101,7 @@ AutoML draws on many disciplines of machine learning, prominently including
   - 2012 | Practical Bayesian Optimization of Machine Learning Algorithms | [`PDF`](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
   - 2011 | Sequential Model-Based Optimization for General Algorithm Configuration(extended version) | [`PDF`](https://www.cs.ubc.ca/~hutter/papers/10-TR-SMAC.pdf)
 + #### Evolutionary Algorithms
+  - 2018 | Autostacker: A Compositional Evolutionary Learning System | Boyuan Chen, et al. | arXiv | [`PDF`](https://arxiv.org/pdf/1803.00684.pdf)
   - 2017 | Large-Scale Evolution of Image Classifiers | Esteban Real, et al. | PMLR | [`PDF`](https://arxiv.org/pdf/1703.01041.pdf)
 + ####  Lipschitz Functions
   - 2017 | Global Optimization of Lipschitz functions | C´edric Malherbe, Nicolas Vayatis | arXiv | [`PDF`](https://arxiv.org/pdf/1703.02628.pdf)
@@ -165,11 +166,19 @@ AutoML draws on many disciplines of machine learning, prominently including
 + Optunity | `Python` | `Open Source` | [`Code`](https://github.com/claesenm/optunity)
 + TPOT | `Python` | `Open Source` | [`Code`](https://github.com/rhiever/tpot)
 + ATM | `Python` | `Open Source` | [`Code`](https://github.com/HDI-Project/ATM)
-+ Cloud AutoML | [`Link`](https://cloud.google.com/automl/)
++ Cloud AutoML | `Python` | `Commercial`| [`Link`](https://cloud.google.com/automl/)
++ H2O | `Python` | `Commercial` | [`Link`](https://www.h2o.ai/)
++ DataRobot | `Python` | `Commercial` | [`Link`](https://www.datarobot.com/)
++ MLJAR | `Python` | `Commercial` | [`Link`](https://mljar.com/)
++ MateLabs | `Python` | `Commercial` | [`Link`](http://matelabs.in/)
 
 # Prominent Researchers
 + [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/index.html) | University of Freiburg
 + [Martin Wistuba](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Martin.Wistuba) | IBM Research
+
+# Acknowledgement
+Special thanks to everyone who contributed to this project.
++ [tengben0905](https://github.com/tengben0905)
 
 # Licenses
 Awesome-AutoML-Papers is available under Apache Licenses 2.0.
