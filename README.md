@@ -29,6 +29,7 @@ AutoML draws on many disciplines of machine learning, prominently including
     - [Meta Learning](#meta-learning)
     - [Reinforcement Learning](#reinforcement-learning)
   - [Architecture Search](#architecture-search)
+    - [Local Search](#local-search)
     - [Meta Learning](#meta-learning)
     - [Reinforcement Learning](#reinforcement-learning)
     - [Transfer Learning](#transfer-learning)
@@ -41,6 +42,8 @@ AutoML draws on many disciplines of machine learning, prominently including
     - [Particle Swarm Optimization](#particle-swarm-optimization)
     - [Random Search](#random-search)
     - [Transfer Learning](#transfer-learning)
+  - [Performance Prediction](#performance-prediction)
+    - [Performance Prediction](##)
   - [Frameworks](#frameworks)
   - [Miscellaneous](#miscellaneous)
 + [Tutorials](#tutorials)
@@ -71,6 +74,8 @@ AutoML draws on many disciplines of machine learning, prominently including
   - 2017 | Feature Engineering for Predictive Modeling using Reinforcement Learning | Udayan Khurana, et al. | arXiv | [`PDF`](https://arxiv.org/pdf/1709.07150.pdf)
   - 2010 | Feature Selection as a One-Player Game | Romaric Gaudel, Michele Sebag | ICML | [`PDF`](https://hal.archives-ouvertes.fr/inria-00484049/document)
 ### Architecture Search
++ #### Local Search
+  - 2017 | Simple and Efficient Architecture Search for Convolutional Neural Networks | Thomoas Elsken, et al. | ICLR | [`PDF`](https://arxiv.org/pdf/1711.04528.pdf)
 + #### Meta Learning
   - 2016 | Learning to Optimize | Ke Li, Jitendra Malik | arXiv | [`PDF`](https://arxiv.org/pdf/1606.01885.pdf)
 + #### Reinforcement Learning
