@@ -29,6 +29,7 @@ AutoML draws on many disciplines of machine learning, prominently including
     - [Meta Learning](#meta-learning)
     - [Reinforcement Learning](#reinforcement-learning)
   - [Architecture Search](#architecture-search)
+    - [Evolutionary Algorithms](#evolutionary-algorithms)
     - [Local Search](#local-search)
     - [Meta Learning](#meta-learning)
     - [Reinforcement Learning](#reinforcement-learning)
@@ -74,6 +75,8 @@ AutoML draws on many disciplines of machine learning, prominently including
   - 2017 | Feature Engineering for Predictive Modeling using Reinforcement Learning | Udayan Khurana, et al. | arXiv | [`PDF`](https://arxiv.org/pdf/1709.07150.pdf)
   - 2010 | Feature Selection as a One-Player Game | Romaric Gaudel, Michele Sebag | ICML | [`PDF`](https://hal.archives-ouvertes.fr/inria-00484049/document)
 ### Architecture Search
++ #### Evolutionary Algorithms
+  - 2017 | Large-Scale Evolution of Image Classifiers | Esteban Real, et al. | PMLR | [`PDF`](https://arxiv.org/abs/1703.01041)
 + #### Local Search
   - 2017 | Simple and Efficient Architecture Search for Convolutional Neural Networks | Thomoas Elsken, et al. | ICLR | [`PDF`](https://arxiv.org/pdf/1711.04528.pdf)
 + #### Meta Learning
