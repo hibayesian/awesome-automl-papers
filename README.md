@@ -189,6 +189,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 # Acknowledgement
 Special thanks to everyone who contributed to this project.
 + [tengben0905](https://github.com/tengben0905)
++ [Saket Maheshwary](https://github.com/sakimahesh)
 
 # Licenses
 Awesome-AutoML-Papers is available under Apache Licenses 2.0.
