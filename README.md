@@ -190,6 +190,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 
 # Acknowledgement
 Special thanks to everyone who contributed to this project.
++ [endymecy](https://github.com/endymecy)
 + [tengben0905](https://github.com/tengben0905)
 + [Saket Maheshwary](https://github.com/sakimahesh)
 
