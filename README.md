@@ -1,4 +1,4 @@
-# Awesome-AutoML-Papers 
+# Awesome-AutoML-Papers
 
 A curated list of automated machine learning papers, articles, tutorials, slides and projects.
 
@@ -132,7 +132,7 @@ AutoML draws on many disciplines of machine learning, prominently including
   - 2016 | Efficient Transfer Learning Method for Automatic Hyperparameter Tuning | Dani Yogatama, Gideon Mann | JMLR | [`PDF`](https://pdfs.semanticscholar.org/75f2/6734972ebaffc6b43d45abd3048ef75f15a5.pdf)
   - 2016 | Flexible Transfer Learning Framework for Bayesian Optimisation | Tinu Theckel Joy, et al. | PAKDD | [`PDF`](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_9)
   - 2016 | Hyperparameter Optimization Machines | Martin Wistuba, et al. | DSAA | [`PDF`](http://ieeexplore.ieee.org/abstract/document/7796889/)
-  - 2013 | Collaborative Hyperparameter Tuning | R´emi Bardenet, et al. | ICML | [`PDF`](http://proceedings.mlr.press/v28/bardenet13.pdf) 
+  - 2013 | Collaborative Hyperparameter Tuning | R´emi Bardenet, et al. | ICML | [`PDF`](http://proceedings.mlr.press/v28/bardenet13.pdf)
 ### Miscellaneous
 - 2018 | Accelerating Neural Architecture Search using Performance Prediction | Bowen Baker, et al. | ICLR | [`PDF`](https://openreview.net/pdf?id=BJypUGZ0Z)
 - 2017 | Automatic Frankensteining: Creating Complex Ensembles Autonomously | Martin Wistuba, et al. | SIAM | [`PDF`](http://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.83)
@@ -164,6 +164,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 
 # Projects
 + Advisor | `Python` | `Open Source` | [`Code`](https://github.com/tobegit3hub/advisor)
++ Auger | `Python` | `Commercial` | [`Link`](https://auger.ai)
 + auto-sklearn | `Python` | `Open Source` | [`Code`](https://github.com/automl/auto-sklearn)
 + Auto-WEKA | `Java` | `Open Source` | [`Code`](https://github.com/automl/autoweka)
 + Hyperopt | `Python` | `Open Source` | [`Code`](https://github.com/hyperopt/hyperopt)
