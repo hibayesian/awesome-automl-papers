@@ -197,6 +197,7 @@ Special thanks to everyone who contributed to this project.
 + [tengben0905](https://github.com/tengben0905)
 + [Saket Maheshwary](https://github.com/sakimahesh)
 + [derekflint](https://github.com/derekflint)
++ [Randy Olson](https://github.com/rhiever)
 
 # Licenses
 Awesome-AutoML-Papers is available under Apache Licenses 2.0.
