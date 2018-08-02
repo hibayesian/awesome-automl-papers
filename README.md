@@ -186,6 +186,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + DataRobot | `Python` | `Commercial` | [`Link`](https://www.datarobot.com/)
 + MLJAR | `Python` | `Commercial` | [`Link`](https://mljar.com/)
 + MateLabs | `Python` | `Commercial` | [`Link`](http://matelabs.in/)
++ FAR-HO | `Python` | `Open Source` | [`Code`](https://github.com/lucfra/FAR-HO)
 
 # Prominent Researchers
 + [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/index.html) | University of Freiburg
