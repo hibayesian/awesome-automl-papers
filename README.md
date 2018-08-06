@@ -88,6 +88,8 @@ AutoML draws on many disciplines of machine learning, prominently including
   - 2017 | Neural Architecture Search with Reinforcement Learning | Barret Zoph, Quoc V. Le | ICLR | [`PDF`](https://arxiv.org/pdf/1611.01578.pdf)
 + #### Transfer Learning
   - 2017 | Learning Transferable Architectures for Scalable Image Recognition | Barret Zoph, et al. | arXiv | [`PDF`](https://arxiv.org/abs/1707.07012)
++ #### Network Morphism
+  - 2018 | Efficient Neural Architecture Search with Network Morphism | Haifeng Jin, et al. | arXiv | [`PDF`](https://arxiv.org/abs/1806.10282)
 ### Frameworks
 + 2017 | Google Vizier: A Service for Black-Box Optimization | Daniel Golovin, et al. | KDD |[`PDF`](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46180.pdf)
 + 2017 | ATM: A Distributed, Collaborative, Scalable System for Automated Machine Learning | T. Swearingen, et al. | IEEE | [`PDF`](https://cyphe.rs/static/atm.pdf)
@@ -168,6 +170,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + Advisor | `Python` | `Open Source` | [`Code`](https://github.com/tobegit3hub/advisor)
 + Auger | `Python` | `Commercial` | [`Link`](https://auger.ai)
 + auto-sklearn | `Python` | `Open Source` | [`Code`](https://github.com/automl/auto-sklearn)
++ Auto-Keras | `Python` | `Open Source` | [`Code`](https://github.com/jhfjhfj1/autokeras)
 + Auto-WEKA | `Java` | `Open Source` | [`Code`](https://github.com/automl/autoweka)
 + Hyperopt | `Python` | `Open Source` | [`Code`](https://github.com/hyperopt/hyperopt)
 + Hyperopt-sklearn | `Python` | `Open Source` | [`Code`](https://github.com/hyperopt/hyperopt-sklearn)
