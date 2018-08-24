@@ -191,6 +191,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + MateLabs | `Python` | `Commercial` | [`Link`](http://matelabs.in/)
 + FAR-HO | `Python` | `Open Source` | [`Code`](https://github.com/lucfra/FAR-HO)
 + TransmogrifAI | `Scala` | `Open Source` | [`Code`](https://github.com/salesforce/TransmogrifAI)
++ DEvol | `Python` | `Open Source` | [`Code`](https://github.com/joeddav/devol)
 
 # Prominent Researchers
 + [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/index.html) | University of Freiburg
