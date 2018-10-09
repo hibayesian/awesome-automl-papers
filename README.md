@@ -174,6 +174,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + Auto-WEKA | `Java` | `Open Source` | [`Code`](https://github.com/automl/autoweka)
 + Hyperopt | `Python` | `Open Source` | [`Code`](https://github.com/hyperopt/hyperopt)
 + Hyperopt-sklearn | `Python` | `Open Source` | [`Code`](https://github.com/hyperopt/hyperopt-sklearn)
++ NNI | `Python & Typescript` | `Open Source` | [`Code`](https://github.com/Microsoft/nni)
 + SigOpt | `Python` | `Commercial` | [`Link`](https://sigopt.com/)
 + SMAC3 | `Python` | `Open Source` | [`Code`](https://github.com/automl/SMAC3)
 + RoBO | `Python` | `Open Source` | [`Code`](https://github.com/automl/RoBO)
