@@ -174,7 +174,6 @@ AutoML draws on many disciplines of machine learning, prominently including
 + Auto-WEKA | `Java` | `Open Source` | [`Code`](https://github.com/automl/autoweka)
 + Hyperopt | `Python` | `Open Source` | [`Code`](https://github.com/hyperopt/hyperopt)
 + Hyperopt-sklearn | `Python` | `Open Source` | [`Code`](https://github.com/hyperopt/hyperopt-sklearn)
-+ NNI | `Python & Typescript` | `Open Source` | [`Code`](https://github.com/Microsoft/nni)
 + SigOpt | `Python` | `Commercial` | [`Link`](https://sigopt.com/)
 + SMAC3 | `Python` | `Open Source` | [`Code`](https://github.com/automl/SMAC3)
 + RoBO | `Python` | `Open Source` | [`Code`](https://github.com/automl/RoBO)
@@ -194,7 +193,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + TransmogrifAI | `Scala` | `Open Source` | [`Code`](https://github.com/salesforce/TransmogrifAI)
 + DEvol | `Python` | `Open Source` | [`Code`](https://github.com/joeddav/devol)
 + HyperparameterHunter | `Python` | `Open Source` | [`Code`](https://github.com/HunterMcGushion/hyperparameter_hunter)
-+ NNI | `Python` | `Open Source`| [`Code`](https://github.com/Microsoft/nni)
++ NNI | `Python & Typescript` | `Open Source` | [`Code`](https://github.com/Microsoft/nni)
 
 # Prominent Researchers
 + [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/index.html) | University of Freiburg
