@@ -159,8 +159,8 @@ AutoML draws on many disciplines of machine learning, prominently including
 + Automated Feature Engineering for Predictive Modeling | Udyan Khurana, etc al. | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-automated-feature-engineering-for-predictive-modeling.pdf)
 ### Hyperparameter Optimization
 #### Bayesian Optimization
-+ Bayesian Optimisation | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resource/slides/%5Bslides%5D-bayesian-optimisation.pdf)
-+ A Tutorial on Bayesian Optimization for Machine Learning | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resource/slides/%5Bslides%5D-a-tutorial-on-bayesian-optimization-for-machine-learning.pdf)
++ Bayesian Optimisation | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-bayesian-optimisation.pdf)
++ A Tutorial on Bayesian Optimization for Machine Learning | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-a-tutorial-on-bayesian-optimization-for-machine-learning.pdf)
 
 # Books
 ### Meta Learning
