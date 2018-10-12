@@ -194,6 +194,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + DEvol | `Python` | `Open Source` | [`Code`](https://github.com/joeddav/devol)
 + HyperparameterHunter | `Python` | `Open Source` | [`Code`](https://github.com/HunterMcGushion/hyperparameter_hunter)
 + NNI | `Python & Typescript` | `Open Source` | [`Code`](https://github.com/Microsoft/nni)
++ Tune | `Python` | `Open Source` | [`Code`](https://github.com/ray-project/ray/tree/master/python/ray/tune) | [`Docs`](http://ray.readthedocs.io/en/latest/tune.html)
 
 # Prominent Researchers
 + [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/index.html) | University of Freiburg
