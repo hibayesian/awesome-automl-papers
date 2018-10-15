@@ -210,6 +210,7 @@ Special thanks to everyone who contributed to this project.
 + [sophia-wright-blue](https://github.com/sophia-wright-blue)
 + [xuehui](https://github.com/xuehui1991)
 + [shaido987](https://github.com/shaido987)
++ [Richard Liaw](https://github.com/richardliaw)
 
 # Licenses
 Awesome-AutoML-Papers is available under Apache Licenses 2.0.
