@@ -91,6 +91,9 @@ AutoML draws on many disciplines of machine learning, prominently including
   - 2017 | Learning Transferable Architectures for Scalable Image Recognition | Barret Zoph, et al. | arXiv | [`PDF`](https://arxiv.org/abs/1707.07012)
 + #### Network Morphism
   - 2018 | Efficient Neural Architecture Search with Network Morphism | Haifeng Jin, et al. | arXiv | [`PDF`](https://arxiv.org/abs/1806.10282)
++ #### Continuous Optimization
+  - 2018 | Neural Architecture Optimization | Renqian Luo, etl al. | arXiv | [`PDF`](https://arxiv.org/abs/1808.07233)
+
 ### Frameworks
 + 2017 | Google Vizier: A Service for Black-Box Optimization | Daniel Golovin, et al. | KDD |[`PDF`](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46180.pdf)
 + 2017 | ATM: A Distributed, Collaborative, Scalable System for Automated Machine Learning | T. Swearingen, et al. | IEEE | [`PDF`](https://cyphe.rs/static/atm.pdf)
@@ -220,6 +223,8 @@ Special thanks to everyone who contributed to this project.
 + [xuehui](https://github.com/xuehui1991)
 + [shaido987](https://github.com/shaido987)
 + [Richard Liaw](https://github.com/richardliaw)
++ [Eric](https://github.com/ffengENG)
++ [Yihui He](https://github.com/yihui-he)
 
 # Licenses
 Awesome-AutoML-Papers is available under Apache Licenses 2.0.
