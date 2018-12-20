@@ -92,7 +92,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + #### Network Morphism
   - 2018 | Efficient Neural Architecture Search with Network Morphism | Haifeng Jin, et al. | arXiv | [`PDF`](https://arxiv.org/abs/1806.10282)
 + #### Continuous Optimization
-  - 2018 | Neural Architecture Optimization | Renqian Luo, etl al. | arXiv | [`PDF`](https://arxiv.org/abs/1808.07233)
+  - 2018 | Neural Architecture Optimization | Renqian Luo, et al. | arXiv | [`PDF`](https://arxiv.org/abs/1808.07233)
 
 ### Frameworks
 + 2017 | Google Vizier: A Service for Black-Box Optimization | Daniel Golovin, et al. | KDD |[`PDF`](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46180.pdf)
