@@ -172,7 +172,6 @@ AutoML draws on many disciplines of machine learning, prominently including
 + 2009 | Metalearning - Applications to Data Mining | Springer | [`PDF`](http://www.springer.com/la/book/9783540732624)
 
 # Projects
-+ Auto_ml | `Python` | `Open Soource` | [`Code`](https://github.com/ClimbsRocks/auto_ml)
 + AdaNet | `Python` | `Open Soource` | [`Code`](https://github.com/tensorflow/adanet)
 + Advisor | `Python` | `Open Source` | [`Code`](https://github.com/tobegit3hub/advisor)
 + Amla | `Python` | `Open Source` | [`Code`](https://github.com/CiscoAI/amla)
@@ -181,6 +180,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + Auto-Keras | `Python` | `Open Source` | [`Code`](https://github.com/jhfjhfj1/autokeras)
 + Auto-sklearn | `Python` | `Open Source` | [`Code`](https://github.com/automl/auto-sklearn)
 + Auto-WEKA | `Java` | `Open Source` | [`Code`](https://github.com/automl/autoweka)
++ Auto_ml | `Python` | `Open Soource` | [`Code`](https://github.com/ClimbsRocks/auto_ml)
 + BayesianOptimization | `Python` | `Open Source` | [`Code`](https://github.com/fmfn/BayesianOptimization)
 + BayesOpt | `C++` | `Open Source` | [`Code`](https://github.com/rmcantin/bayesopt)
 + Cloud AutoML | `Python` | `Commercial`| [`Link`](https://cloud.google.com/automl/)
@@ -198,6 +198,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + Milano | `Python` | `Open Source` | [`Code`](https://github.com/NVIDIA/Milano)
 + MLJAR | `Python` | `Commercial` | [`Link`](https://mljar.com/)
 + Nasbot | `Python` | `Open Source` | [`Code`](https://github.com/kirthevasank/nasbot)
++ Neptune | `Python` | `Commercial` | [`Link`](https://neptune.ml/)
 + NNI | `Python & Typescript` | `Open Source` | [`Code`](https://github.com/Microsoft/nni)
 + Optunity | `Python` | `Open Source` | [`Code`](https://github.com/claesenm/optunity)
 + Rbfopt | `Python` | `Open Source` | [`Code`](https://github.com/coin-or/rbfopt)
