@@ -95,14 +95,14 @@ AutoML draws on many disciplines of machine learning, prominently including
   - 2018 | Neural Architecture Optimization | Renqian Luo, et al. | arXiv | [`PDF`](https://arxiv.org/abs/1808.07233)
 
 ### Frameworks
-+ 2017 | Google Vizier: A Service for Black-Box Optimization | Daniel Golovin, et al. | KDD |[`PDF`](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46180.pdf)
 + 2017 | ATM: A Distributed, Collaborative, Scalable System for Automated Machine Learning | T. Swearingen, et al. | IEEE | [`PDF`](https://cyphe.rs/static/atm.pdf)
++ 2017 | Google Vizier: A Service for Black-Box Optimization | Daniel Golovin, et al. | KDD |[`PDF`](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46180.pdf)
 + 2015 | AutoCompete: A Framework for Machine Learning Competitions | Abhishek Thakur, et al. | ICML | [`PDF`](https://arxiv.org/pdf/1507.02188.pdf)
 ### Hyperparameter Optimization
 + #### Bayesian Optimization
+  - 2018 | A Tutorial on Bayesian Optimization. | [`PDF`](https://arxiv.org/pdf/1807.02811.pdf)
   - 2018 | Efficient High Dimensional Bayesian Optimization with Additivity and Quadrature Fourier Features | Mojmír Mutný, et al. | NeurIPS | [`PDF`](https://papers.nips.cc/paper/8115-efficient-high-dimensional-bayesian-optimization-with-additivity-and-quadrature-fourier-features.pdf)
   - 2018 | High-Dimensional Bayesian Optimization via Additive Models with Overlapping Groups. |  PMLR | [`PDF`](https://arxiv.org/pdf/1802.07028v2.pdf)
-  - 2018 | A Tutorial on Bayesian Optimization. | [`PDF`](https://arxiv.org/pdf/1807.02811.pdf)
   - 2016 | Bayesian Optimization with Robust Bayesian Neural Networks | Jost Tobias Springenberg， et al. | NIPS | [`PDF`](https://papers.nips.cc/paper/6117-bayesian-optimization-with-robust-bayesian-neural-networks.pdf)
   - 2016 | Scalable Hyperparameter Optimization with Products of Gaussian Process Experts | Nicolas Schilling, et al. | PKDD | [`PDF`](https://link.springer.com/chapter/10.1007/978-3-319-46128-1_3)
   - 2016 | Taking the Human Out of the Loop: A Review of Bayesian Optimization | Bobak Shahriari, et al. | IEEE | [`PDF`](http://ieeexplore.ieee.org/document/7352306/)
@@ -122,8 +122,8 @@ AutoML draws on many disciplines of machine learning, prominently including
 + #### Evolutionary Algorithms
   - 2018 | Autostacker: A Compositional Evolutionary Learning System | Boyuan Chen, et al. | arXiv | [`PDF`](https://arxiv.org/pdf/1803.00684.pdf)
   - 2017 | Large-Scale Evolution of Image Classifiers | Esteban Real, et al. | PMLR | [`PDF`](https://arxiv.org/pdf/1703.01041.pdf)
-  - 2016 | Evaluation of a tree-based pipeline optimization tool for automating data science | Randal S. Olson, et al. | GECCO | [`PDF`](https://dl.acm.org/citation.cfm?id=2908918)
   - 2016 | Automating biomedical data science through tree-based pipeline optimization | Randal S. Olson, et al. | ECAL | [`PDF`](https://arxiv.org/pdf/1601.07925.pdf)
+  - 2016 | Evaluation of a tree-based pipeline optimization tool for automating data science | Randal S. Olson, et al. | GECCO | [`PDF`](https://dl.acm.org/citation.cfm?id=2908918)
 + ####  Lipschitz Functions
   - 2017 | Global Optimization of Lipschitz functions | C´edric Malherbe, Nicolas Vayatis | arXiv | [`PDF`](https://arxiv.org/pdf/1703.02628.pdf)
 + #### Local Search
@@ -156,16 +156,16 @@ AutoML draws on many disciplines of machine learning, prominently including
 ### Bayesian Optimization
 + 2016 | Bayesian Optimization for Hyperparameter Tuning | [`Link`](https://arimo.com/data-science/2016/bayesian-optimization-hyperparameter-tuning/)
 ### Meta Learning
-+ 2017 | Why Meta-learning is Crucial for Further Advances of Artificial Intelligence? | [`Link`](https://chatbotslife.com/why-meta-learning-is-crucial-for-further-advances-of-artificial-intelligence-c2df55959adf)
 + 2017 | Learning to learn | [`Link`](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
++ 2017 | Why Meta-learning is Crucial for Further Advances of Artificial Intelligence? | [`Link`](https://chatbotslife.com/why-meta-learning-is-crucial-for-further-advances-of-artificial-intelligence-c2df55959adf)
 
 # Slides
 ### Automated Feature Engineering
 + Automated Feature Engineering for Predictive Modeling | Udyan Khurana, etc al. | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-automated-feature-engineering-for-predictive-modeling.pdf)
 ### Hyperparameter Optimization
 #### Bayesian Optimization
-+ Bayesian Optimisation | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-bayesian-optimisation.pdf)
 + A Tutorial on Bayesian Optimization for Machine Learning | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-a-tutorial-on-bayesian-optimization-for-machine-learning.pdf)
++ Bayesian Optimisation | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-bayesian-optimisation.pdf)
 
 # Books
 ### Meta Learning
@@ -217,18 +217,18 @@ AutoML draws on many disciplines of machine learning, prominently including
 
 # Acknowledgement
 Special thanks to everyone who contributed to this project.
-+ [endymecy](https://github.com/endymecy)
-+ [tengben0905](https://github.com/tengben0905)
-+ [Saket Maheshwary](https://github.com/sakimahesh)
 + [derekflint](https://github.com/derekflint)
-+ [Randy Olson](https://github.com/rhiever)
-+ [sophia-wright-blue](https://github.com/sophia-wright-blue)
-+ [xuehui](https://github.com/xuehui1991)
-+ [shaido987](https://github.com/shaido987)
-+ [Richard Liaw](https://github.com/richardliaw)
++ [endymecy](https://github.com/endymecy)
 + [Eric](https://github.com/ffengENG)
-+ [Yihui He](https://github.com/yihui-he)
++ [Randy Olson](https://github.com/rhiever)
++ [Richard Liaw](https://github.com/richardliaw)
++ [Saket Maheshwary](https://github.com/sakimahesh)
++ [shaido987](https://github.com/shaido987)
 + [Slava Kurilyak](https://github.com/slavakurilyak)
++ [sophia-wright-blue](https://github.com/sophia-wright-blue)
++ [tengben0905](https://github.com/tengben0905)
++ [xuehui](https://github.com/xuehui1991)
++ [Yihui He](https://github.com/yihui-he)
 
 # Licenses
 Awesome-AutoML-Papers is available under Apache Licenses 2.0.
