@@ -172,7 +172,7 @@ AutoML draws on many disciplines of machine learning, prominently including
 + 2009 | Metalearning - Applications to Data Mining | Springer | [`PDF`](http://www.springer.com/la/book/9783540732624)
 
 # Projects
-+ AdaNet | `Python` | `Open Soource` | [`Code`](https://github.com/tensorflow/adanet)
++ AdaNet | `Python` | `Open Source` | [`Code`](https://github.com/tensorflow/adanet)
 + Advisor | `Python` | `Open Source` | [`Code`](https://github.com/tobegit3hub/advisor)
 + Amla | `Python` | `Open Source` | [`Code`](https://github.com/CiscoAI/amla)
 + ATM | `Python` | `Open Source` | [`Code`](https://github.com/HDI-Project/ATM)
@@ -180,10 +180,11 @@ AutoML draws on many disciplines of machine learning, prominently including
 + Auto-Keras | `Python` | `Open Source` | [`Code`](https://github.com/jhfjhfj1/autokeras)
 + Auto-sklearn | `Python` | `Open Source` | [`Code`](https://github.com/automl/auto-sklearn)
 + Auto-WEKA | `Java` | `Open Source` | [`Code`](https://github.com/automl/autoweka)
-+ Auto_ml | `Python` | `Open Soource` | [`Code`](https://github.com/ClimbsRocks/auto_ml)
++ Auto_ml | `Python` | `Open Source` | [`Code`](https://github.com/ClimbsRocks/auto_ml)
 + BayesianOptimization | `Python` | `Open Source` | [`Code`](https://github.com/fmfn/BayesianOptimization)
 + BayesOpt | `C++` | `Open Source` | [`Code`](https://github.com/rmcantin/bayesopt)
 + Cloud AutoML | `Python` | `Commercial`| [`Link`](https://cloud.google.com/automl/)
++ Comet | `Python` | `Commercial`| [`Link`](https://www.comet.ml/)
 + DataRobot | `Python` | `Commercial` | [`Link`](https://www.datarobot.com/)
 + DEvol | `Python` | `Open Source` | [`Code`](https://github.com/joeddav/devol)
 + FAR-HO | `Python` | `Open Source` | [`Code`](https://github.com/lucfra/FAR-HO)
