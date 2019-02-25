@@ -97,14 +97,14 @@ AutoML draws on many disciplines of machine learning, prominently including
 
 ### Frameworks
 + 2019 | Evolutionary Neural AutoML for Deep Learning | Jason Liang, et al. | arXiv | [`PDF`](https://arxiv.org/abs/1902.06827)
-+ 2017 | Google Vizier: A Service for Black-Box Optimization | Daniel Golovin, et al. | KDD |[`PDF`](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46180.pdf)
 + 2017 | ATM: A Distributed, Collaborative, Scalable System for Automated Machine Learning | T. Swearingen, et al. | IEEE | [`PDF`](https://cyphe.rs/static/atm.pdf)
++ 2017 | Google Vizier: A Service for Black-Box Optimization | Daniel Golovin, et al. | KDD |[`PDF`](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46180.pdf)
 + 2015 | AutoCompete: A Framework for Machine Learning Competitions | Abhishek Thakur, et al. | ICML | [`PDF`](https://arxiv.org/pdf/1507.02188.pdf)
 ### Hyperparameter Optimization
 + #### Bayesian Optimization
+  - 2018 | A Tutorial on Bayesian Optimization. | [`PDF`](https://arxiv.org/pdf/1807.02811.pdf)
   - 2018 | Efficient High Dimensional Bayesian Optimization with Additivity and Quadrature Fourier Features | Mojmír Mutný, et al. | NeurIPS | [`PDF`](https://papers.nips.cc/paper/8115-efficient-high-dimensional-bayesian-optimization-with-additivity-and-quadrature-fourier-features.pdf)
   - 2018 | High-Dimensional Bayesian Optimization via Additive Models with Overlapping Groups. |  PMLR | [`PDF`](https://arxiv.org/pdf/1802.07028v2.pdf)
-  - 2018 | A Tutorial on Bayesian Optimization. | [`PDF`](https://arxiv.org/pdf/1807.02811.pdf)
   - 2016 | Bayesian Optimization with Robust Bayesian Neural Networks | Jost Tobias Springenberg， et al. | NIPS | [`PDF`](https://papers.nips.cc/paper/6117-bayesian-optimization-with-robust-bayesian-neural-networks.pdf)
   - 2016 | Scalable Hyperparameter Optimization with Products of Gaussian Process Experts | Nicolas Schilling, et al. | PKDD | [`PDF`](https://link.springer.com/chapter/10.1007/978-3-319-46128-1_3)
   - 2016 | Taking the Human Out of the Loop: A Review of Bayesian Optimization | Bobak Shahriari, et al. | IEEE | [`PDF`](http://ieeexplore.ieee.org/document/7352306/)
@@ -124,8 +124,8 @@ AutoML draws on many disciplines of machine learning, prominently including
 + #### Evolutionary Algorithms
   - 2018 | Autostacker: A Compositional Evolutionary Learning System | Boyuan Chen, et al. | arXiv | [`PDF`](https://arxiv.org/pdf/1803.00684.pdf)
   - 2017 | Large-Scale Evolution of Image Classifiers | Esteban Real, et al. | PMLR | [`PDF`](https://arxiv.org/pdf/1703.01041.pdf)
-  - 2016 | Evaluation of a tree-based pipeline optimization tool for automating data science | Randal S. Olson, et al. | GECCO | [`PDF`](https://dl.acm.org/citation.cfm?id=2908918)
   - 2016 | Automating biomedical data science through tree-based pipeline optimization | Randal S. Olson, et al. | ECAL | [`PDF`](https://arxiv.org/pdf/1601.07925.pdf)
+  - 2016 | Evaluation of a tree-based pipeline optimization tool for automating data science | Randal S. Olson, et al. | GECCO | [`PDF`](https://dl.acm.org/citation.cfm?id=2908918)
 + ####  Lipschitz Functions
   - 2017 | Global Optimization of Lipschitz functions | C´edric Malherbe, Nicolas Vayatis | arXiv | [`PDF`](https://arxiv.org/pdf/1703.02628.pdf)
 + #### Local Search
@@ -158,57 +158,61 @@ AutoML draws on many disciplines of machine learning, prominently including
 ### Bayesian Optimization
 + 2016 | Bayesian Optimization for Hyperparameter Tuning | [`Link`](https://arimo.com/data-science/2016/bayesian-optimization-hyperparameter-tuning/)
 ### Meta Learning
-+ 2017 | Why Meta-learning is Crucial for Further Advances of Artificial Intelligence? | [`Link`](https://chatbotslife.com/why-meta-learning-is-crucial-for-further-advances-of-artificial-intelligence-c2df55959adf)
 + 2017 | Learning to learn | [`Link`](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
++ 2017 | Why Meta-learning is Crucial for Further Advances of Artificial Intelligence? | [`Link`](https://chatbotslife.com/why-meta-learning-is-crucial-for-further-advances-of-artificial-intelligence-c2df55959adf)
 
 # Slides
 ### Automated Feature Engineering
 + Automated Feature Engineering for Predictive Modeling | Udyan Khurana, etc al. | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-automated-feature-engineering-for-predictive-modeling.pdf)
 ### Hyperparameter Optimization
 #### Bayesian Optimization
-+ Bayesian Optimisation | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-bayesian-optimisation.pdf)
 + A Tutorial on Bayesian Optimization for Machine Learning | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-a-tutorial-on-bayesian-optimization-for-machine-learning.pdf)
++ Bayesian Optimisation | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-bayesian-optimisation.pdf)
 
 # Books
 ### Meta Learning
 + 2009 | Metalearning - Applications to Data Mining | Springer | [`PDF`](http://www.springer.com/la/book/9783540732624)
 
 # Projects
++ AdaNet | `Python` | `Open Source` | [`Code`](https://github.com/tensorflow/adanet)
 + Advisor | `Python` | `Open Source` | [`Code`](https://github.com/tobegit3hub/advisor)
++ Amla | `Python` | `Open Source` | [`Code`](https://github.com/CiscoAI/amla)
++ ATM | `Python` | `Open Source` | [`Code`](https://github.com/HDI-Project/ATM)
 + Auger | `Python` | `Commercial` | [`Link`](https://auger.ai)
-+ auto-sklearn | `Python` | `Open Source` | [`Code`](https://github.com/automl/auto-sklearn)
 + Auto-Keras | `Python` | `Open Source` | [`Code`](https://github.com/jhfjhfj1/autokeras)
++ Auto-sklearn | `Python` | `Open Source` | [`Code`](https://github.com/automl/auto-sklearn)
 + Auto-WEKA | `Java` | `Open Source` | [`Code`](https://github.com/automl/autoweka)
++ Auto_ml | `Python` | `Open Source` | [`Code`](https://github.com/ClimbsRocks/auto_ml)
++ BayesianOptimization | `Python` | `Open Source` | [`Code`](https://github.com/fmfn/BayesianOptimization)
++ BayesOpt | `C++` | `Open Source` | [`Code`](https://github.com/rmcantin/bayesopt)
++ Cloud AutoML | `Python` | `Commercial`| [`Link`](https://cloud.google.com/automl/)
++ Comet | `Python` | `Commercial`| [`Link`](https://www.comet.ml/)
++ DataRobot | `Python` | `Commercial` | [`Link`](https://www.datarobot.com/)
++ DEvol | `Python` | `Open Source` | [`Code`](https://github.com/joeddav/devol)
++ FAR-HO | `Python` | `Open Source` | [`Code`](https://github.com/lucfra/FAR-HO)
++ H2O | `Python` | `Commercial` | [`Link`](https://www.h2o.ai/)
++ HpBandSter | `Python` | `Open Source` | [`Code`](https://github.com/automl/HpBandSter)
++ HyperBand | `Python` | `Open Source` | [`Code`](https://github.com/zygmuntz/hyperband)
 + Hyperopt | `Python` | `Open Source` | [`Code`](https://github.com/hyperopt/hyperopt)
 + Hyperopt-sklearn | `Python` | `Open Source` | [`Code`](https://github.com/hyperopt/hyperopt-sklearn)
++ Hyperparameter_hunter | `Python` | `Open Source` | [`Code`](https://github.com/HunterMcGushion/hyperparameter_hunter)
++ Katib | `Python` | `Open Source` | [`Code`](https://github.com/kubeflow/katib)
++ MateLabs | `Python` | `Commercial` | [`Link`](http://matelabs.in/)
++ Milano | `Python` | `Open Source` | [`Code`](https://github.com/NVIDIA/Milano)
++ MLJAR | `Python` | `Commercial` | [`Link`](https://mljar.com/)
++ Nasbot | `Python` | `Open Source` | [`Code`](https://github.com/kirthevasank/nasbot)
++ Neptune | `Python` | `Commercial` | [`Link`](https://neptune.ml/)
++ NNI | `Python & Typescript` | `Open Source` | [`Code`](https://github.com/Microsoft/nni)
++ Optunity | `Python` | `Open Source` | [`Code`](https://github.com/claesenm/optunity)
++ Rbfopt | `Python` | `Open Source` | [`Code`](https://github.com/coin-or/rbfopt)
++ RoBO | `Python` | `Open Source` | [`Code`](https://github.com/automl/RoBO)
++ Scikit-Optimize | `Python` | `Open Source` | [`Code`](https://github.com/scikit-optimize/scikit-optimize)
 + SigOpt | `Python` | `Commercial` | [`Link`](https://sigopt.com/)
 + SMAC3 | `Python` | `Open Source` | [`Code`](https://github.com/automl/SMAC3)
-+ RoBO | `Python` | `Open Source` | [`Code`](https://github.com/automl/RoBO)
-+ BayesianOptimization | `Python` | `Open Source` | [`Code`](https://github.com/fmfn/BayesianOptimization)
-+ Scikit-Optimize | `Python` | `Open Source` | [`Code`](https://github.com/scikit-optimize/scikit-optimize)
-+ HyperBand | `Python` | `Open Source` | [`Code`](https://github.com/zygmuntz/hyperband)
-+ BayesOpt | `C++` | `Open Source` | [`Code`](https://github.com/rmcantin/bayesopt)
-+ Optunity | `Python` | `Open Source` | [`Code`](https://github.com/claesenm/optunity)
 + TPOT | `Python` | `Open Source` | [`Code`](https://github.com/rhiever/tpot)
-+ ATM | `Python` | `Open Source` | [`Code`](https://github.com/HDI-Project/ATM)
-+ Cloud AutoML | `Python` | `Commercial`| [`Link`](https://cloud.google.com/automl/)
-+ H2O | `Python` | `Commercial` | [`Link`](https://www.h2o.ai/)
-+ DataRobot | `Python` | `Commercial` | [`Link`](https://www.datarobot.com/)
-+ MLJAR | `Python` | `Commercial` | [`Link`](https://mljar.com/)
-+ MateLabs | `Python` | `Commercial` | [`Link`](http://matelabs.in/)
-+ FAR-HO | `Python` | `Open Source` | [`Code`](https://github.com/lucfra/FAR-HO)
 + TransmogrifAI | `Scala` | `Open Source` | [`Code`](https://github.com/salesforce/TransmogrifAI)
-+ DEvol | `Python` | `Open Source` | [`Code`](https://github.com/joeddav/devol)
-+ HyperparameterHunter | `Python` | `Open Source` | [`Code`](https://github.com/HunterMcGushion/hyperparameter_hunter)
-+ NNI | `Python & Typescript` | `Open Source` | [`Code`](https://github.com/Microsoft/nni)
 + Tune | `Python` | `Open Source` | [`Code`](https://github.com/ray-project/ray/tree/master/python/ray/tune) | [`Docs`](http://ray.readthedocs.io/en/latest/tune.html)
-+ Milano | `Python` | `Open Source` | [`Code`](https://github.com/NVIDIA/Milano)
-+ Katib | `Python` | `Open Source` | [`Code`](https://github.com/kubeflow/katib)
-+ nasbot | `Python` | `Open Source` | [`Code`](https://github.com/kirthevasank/nasbot)
-+ rbfopt | `Python` | `Open Source` | [`Code`](https://github.com/coin-or/rbfopt)
-+ amla | `Python` | `Open Source` | [`Code`](https://github.com/CiscoAI/amla)
-+ HpBandSter | `Python` | `Open Source` | [`Code`](https://github.com/automl/HpBandSter)
-
++ Xcessiv | `Python` | `Open Source` | [`Code`](https://github.com/reiinakano/xcessiv)
 
 # Prominent Researchers
 + [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/index.html) | University of Freiburg
@@ -216,16 +220,17 @@ AutoML draws on many disciplines of machine learning, prominently including
 
 # Acknowledgement
 Special thanks to everyone who contributed to this project.
-+ [endymecy](https://github.com/endymecy)
-+ [tengben0905](https://github.com/tengben0905)
-+ [Saket Maheshwary](https://github.com/sakimahesh)
 + [derekflint](https://github.com/derekflint)
-+ [Randy Olson](https://github.com/rhiever)
-+ [sophia-wright-blue](https://github.com/sophia-wright-blue)
-+ [xuehui](https://github.com/xuehui1991)
-+ [shaido987](https://github.com/shaido987)
-+ [Richard Liaw](https://github.com/richardliaw)
++ [endymecy](https://github.com/endymecy)
 + [Eric](https://github.com/ffengENG)
++ [Randy Olson](https://github.com/rhiever)
++ [Richard Liaw](https://github.com/richardliaw)
++ [Saket Maheshwary](https://github.com/sakimahesh)
++ [shaido987](https://github.com/shaido987)
++ [Slava Kurilyak](https://github.com/slavakurilyak)
++ [sophia-wright-blue](https://github.com/sophia-wright-blue)
++ [tengben0905](https://github.com/tengben0905)
++ [xuehui](https://github.com/xuehui1991)
 + [Yihui He](https://github.com/yihui-he)
 
 # Licenses
