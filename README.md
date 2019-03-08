@@ -33,9 +33,9 @@ In recent years, *AutoML* has attracted much attention from a bunch of giant com
 | Google | × | √ | √ |
 | H2O | √ | √ | × |
 | Tencent | × | √ | × |
+| Transwarp | √ | √ | √ |
 | Microsoft | × | √ | √ |
 | RapidMiner | √ | √ | × |
-| Transwarp | √ | √ | √ |
 
 # Table of Contents
 
