@@ -32,10 +32,10 @@ In recent years, *AutoML* has attracted much attention from a bunch of giant com
 | Baidu | × | × | √ |
 | Google | × | √ | √ |
 | H2O | √ | √ | × |
-| Tencent | × | √ | × |
-| Transwarp | √ | √ | √ |
 | Microsoft | × | √ | √ |
 | RapidMiner | √ | √ | × |
+| Tencent | × | √ | × |
+| Transwarp | √ | √ | √ |
 
 # Table of Contents
 
