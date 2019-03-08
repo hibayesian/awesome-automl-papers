@@ -1,8 +1,14 @@
 # Awesome-AutoML-Papers
 
-A curated list of automated machine learning papers, articles, tutorials, slides and projects.
+Welcome to our brand new project!
 
-# Introduction to AutoML
+**Awesome-AutoML-Papers** is a curated list of *automated machine learning* papers, articles, tutorials, slides and projects. **Star** this project, then you can keep abreastof the latest developments of this booming research field. Thanks to all the people who made contributions to this project. Join us and you are welcome to be a contributor.
+
+![avatar](resources/banner.png)
+
+# What is AutoML?
+*Automated Machine Learning* provides methods and processes to make Machine Learning available for non-Machine Learning experts, to improve efficiency of Machine Learning and to accelerate research on Machine Learning.
+
 Machine learning (ML) has achieved considerable successes in recent years and an ever-growing number of disciplines rely on it. However, this success crucially relies on human machine learning experts to perform the following tasks:
 + Preprocess the data
 + Select appropriate features
@@ -11,14 +17,25 @@ Machine learning (ML) has achieved considerable successes in recent years and an
 + Postprocess machine learning models
 + Critically analyze the results obtained.
 
-As the complexity of these tasks is often beyond non-ML-experts, the rapid growth of machine learning applications has created a demand for off-the-shelf machine learning methods that can be used easily and without expert knowledge. We call the resulting research area that targets progressive automation of machine learning *AutoML*.
+As the complexity of these tasks is often beyond non-ML-experts, the rapid growth of machine learning applications has created a demand for off-the-shelf machine learning methods that can be used easily and without expert knowledge. We call the resulting research area that targets progressive automation of machine learning *AutoML*. As a new sub-area in machine learning, *AutoML* has got more attention not only in machine learning but also in computer vision, natural language processing and graph computing.
 
-AutoML draws on many disciplines of machine learning, prominently including
-+ Bayesian optimization
-+ Regression models for structured data and big data
-+ Meta learning
-+ Transfer learning, and
-+ Combinatorial optimization.
+There are no formal defination of *AutoML*. From the descriptions of most papers，the basic framework of *AutoML* can be shown as the following.
+
+![avatar](resources/framework.jpg)
+
+In recent years, *AutoML* has attracted much attention from a bunch of giant companies and start-up companies. An overview comparison of some of them can be summarized to the following table.
+
+| Company | Automated Feature Engineering | Hyperparameter Optimization | Architecture Search |
+| ------ | ------ | ------ | ------ |
+| 4paradigm | √ | √ | × |
+| Alibaba | × | √ | × |
+| Baidu | × | × | √ |
+| Google | × | √ | √ |
+| H2O | √ | √ | × |
+| Tencent | × | √ | × |
+| Microsoft | × | √ | √ |
+| RapidMiner | √ | √ | × |
+| Transwarp | √ | √ | √ |
 
 # Table of Contents
 
