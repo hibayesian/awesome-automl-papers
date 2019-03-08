@@ -26,7 +26,7 @@ There are no formal defination of *AutoML*. From the descriptions of most papers
 In recent years, *AutoML* has attracted much attention from a bunch of giant companies and start-up companies. An overview comparison of some of them can be summarized to the following table.
 
 | Company | Automated Feature Engineering | Hyperparameter Optimization | Architecture Search |
-| ------ | ------ | ------ | ------ |
+| :-: | :-: | :-: | :-: |
 | 4paradigm | √ | √ | × |
 | Alibaba | × | √ | × |
 | Baidu | × | × | √ |
