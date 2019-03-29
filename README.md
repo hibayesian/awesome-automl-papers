@@ -2,24 +2,24 @@
 
 Welcome to our brand new project!
 
-**Awesome-AutoML-Papers** is a curated list of *automated machine learning* papers, articles, tutorials, slides and projects. **Star** this project, then you can keep abreastof the latest developments of this booming research field. Thanks to all the people who made contributions to this project. Join us and you are welcome to be a contributor.
+**Awesome-AutoML-Papers** is a curated list of *automated machine learning* papers, articles, tutorials, slides and projects. **Star** this project, then you can keep abreast of the latest developments of this booming research field. Thanks to all the people who made contributions to this project. Join us and you are welcome to be a contributor.
 
 ![avatar](resources/banner.png)
 
 # What is AutoML?
-*Automated Machine Learning* provides methods and processes to make Machine Learning available for non-Machine Learning experts, to improve efficiency of Machine Learning and to accelerate research on Machine Learning.
+*Automated Machine Learning* (AutoML) provides methods and processes to make Machine Learning available for non-Machine Learning experts, to improve efficiency of Machine Learning and to accelerate research on Machine Learning.
 
-Machine learning (ML) has achieved considerable successes in recent years and an ever-growing number of disciplines rely on it. However, this success crucially relies on human machine learning experts to perform the following tasks:
-+ Preprocess the data
-+ Select appropriate features
-+ Select an appropriate model family
-+ Optimize model hyperparameters
-+ Postprocess machine learning models
+Machine Learning (ML) has achieved considerable successes in recent years and an ever-growing number of disciplines rely on it. However, this success crucially relies on human machine learning experts to perform the following tasks:
++ Preprocess the data,
++ Select appropriate features,
++ Select an appropriate model family,
++ Optimize model hyperparameters,
++ Postprocess machine learning models,
 + Critically analyze the results obtained.
 
 As the complexity of these tasks is often beyond non-ML-experts, the rapid growth of machine learning applications has created a demand for off-the-shelf machine learning methods that can be used easily and without expert knowledge. We call the resulting research area that targets progressive automation of machine learning *AutoML*. As a new sub-area in machine learning, *AutoML* has got more attention not only in machine learning but also in computer vision, natural language processing and graph computing.
 
-There are no formal defination of *AutoML*. From the descriptions of most papers，the basic framework of *AutoML* can be shown as the following.
+There are no formal definition of *AutoML*. From the descriptions of most papers，the basic framework of *AutoML* can be shown as the following.
 
 ![avatar](resources/framework.jpg)
 
@@ -117,6 +117,7 @@ In recent years, *AutoML* has attracted much attention from a bunch of giant com
 + 2017 | ATM: A Distributed, Collaborative, Scalable System for Automated Machine Learning | T. Swearingen, et al. | IEEE | [`PDF`](https://cyphe.rs/static/atm.pdf)
 + 2017 | Google Vizier: A Service for Black-Box Optimization | Daniel Golovin, et al. | KDD |[`PDF`](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46180.pdf)
 + 2015 | AutoCompete: A Framework for Machine Learning Competitions | Abhishek Thakur, et al. | ICML | [`PDF`](https://arxiv.org/pdf/1507.02188.pdf)
+
 ### Hyperparameter Optimization
 + #### Bayesian Optimization
   - 2018 | A Tutorial on Bayesian Optimization. | [`PDF`](https://arxiv.org/pdf/1807.02811.pdf)
@@ -161,6 +162,7 @@ In recent years, *AutoML* has attracted much attention from a bunch of giant com
   - 2016 | Flexible Transfer Learning Framework for Bayesian Optimisation | Tinu Theckel Joy, et al. | PAKDD | [`PDF`](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_9)
   - 2016 | Hyperparameter Optimization Machines | Martin Wistuba, et al. | DSAA | [`PDF`](http://ieeexplore.ieee.org/abstract/document/7796889/)
   - 2013 | Collaborative Hyperparameter Tuning | R´emi Bardenet, et al. | ICML | [`PDF`](http://proceedings.mlr.press/v28/bardenet13.pdf)
+
 ### Miscellaneous
 - 2018 | Accelerating Neural Architecture Search using Performance Prediction | Bowen Baker, et al. | ICLR | [`PDF`](https://openreview.net/pdf?id=BJypUGZ0Z)
 - 2017 | Automatic Frankensteining: Creating Complex Ensembles Autonomously | Martin Wistuba, et al. | SIAM | [`PDF`](http://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.83)
@@ -234,6 +236,7 @@ In recent years, *AutoML* has attracted much attention from a bunch of giant com
 # Prominent Researchers
 + [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/index.html) | University of Freiburg
 + [Martin Wistuba](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Martin.Wistuba) | IBM Research
++ (feel free to fork this project and send a pull request to add your name, if you feel you should be on this list!)
 
 # Acknowledgement
 Special thanks to everyone who contributed to this project.
@@ -249,6 +252,7 @@ Special thanks to everyone who contributed to this project.
 + [tengben0905](https://github.com/tengben0905)
 + [xuehui](https://github.com/xuehui1991)
 + [Yihui He](https://github.com/yihui-he)
++ [Lilian Besson (Naereen)](https://github.com/Naereen)
 
 # Licenses
 Awesome-AutoML-Papers is available under Apache Licenses 2.0.
