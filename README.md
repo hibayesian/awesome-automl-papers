@@ -31,7 +31,7 @@ In recent years, *AutoML* has attracted much attention from a bunch of giant com
 | Alibaba | × | √ | × |
 | Baidu | × | × | √ |
 | Google | × | √ | √ |
-| H2O | √ | √ | × |
+| H2O.ai | √ | √ | × |
 | Microsoft | × | √ | √ |
 | RapidMiner | √ | √ | × |
 | Tencent | × | √ | × |
@@ -208,8 +208,9 @@ In recent years, *AutoML* has attracted much attention from a bunch of giant com
 + Comet | `Python` | `Commercial`| [`Link`](https://www.comet.ml/)
 + DataRobot | `Python` | `Commercial` | [`Link`](https://www.datarobot.com/)
 + DEvol | `Python` | `Open Source` | [`Code`](https://github.com/joeddav/devol)
++ Driverless AI | `Python` | `Commercial` | [`Link`](https://www.h2o.ai/products/h2o-driverless-ai/)
 + FAR-HO | `Python` | `Open Source` | [`Code`](https://github.com/lucfra/FAR-HO)
-+ H2O | `Python` | `Commercial` | [`Link`](https://www.h2o.ai/)
++ H2O AutoML | `Python, R, Java, Scala` | `Open Source` | [`Code`](https://github.com/h2oai/h2o-3/)
 + HpBandSter | `Python` | `Open Source` | [`Code`](https://github.com/automl/HpBandSter)
 + HyperBand | `Python` | `Open Source` | [`Code`](https://github.com/zygmuntz/hyperband)
 + Hyperopt | `Python` | `Open Source` | [`Code`](https://github.com/hyperopt/hyperopt)
