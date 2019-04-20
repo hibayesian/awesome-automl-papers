@@ -1,10 +1,10 @@
 # Awesome-AutoML-Papers
 
-Welcome to our brand new project!
+**Awesome-AutoML-Papers** is a curated list of *automated machine learning* papers, articles, tutorials, slides and projects. **Star** this repository, and then you can keep abreast of the latest developments of this booming research field. Thanks to all the people who made contributions to this project. Join us and you are welcome to be a contributor.
 
-**Awesome-AutoML-Papers** is a curated list of *automated machine learning* papers, articles, tutorials, slides and projects. **Star** this project, then you can keep abreast of the latest developments of this booming research field. Thanks to all the people who made contributions to this project. Join us and you are welcome to be a contributor.
-
-![avatar](resources/banner.png)
+<div style="text-align: center">
+<img src="resources/banner.png" atl="banner"/>
+</div>
 
 # What is AutoML?
 *Automated Machine Learning* (AutoML) provides methods and processes to make Machine Learning available for non-Machine Learning experts, to improve efficiency of Machine Learning and to accelerate research on Machine Learning.
@@ -19,26 +19,28 @@ Machine Learning (ML) has achieved considerable successes in recent years and an
 
 As the complexity of these tasks is often beyond non-ML-experts, the rapid growth of machine learning applications has created a demand for off-the-shelf machine learning methods that can be used easily and without expert knowledge. We call the resulting research area that targets progressive automation of machine learning *AutoML*. As a new sub-area in machine learning, *AutoML* has got more attention not only in machine learning but also in computer vision, natural language processing and graph computing.
 
-There are no formal definition of *AutoML*. From the descriptions of most papers，the basic framework of *AutoML* can be shown as the following.
+There are no formal definition of *AutoML*. From the descriptions of most papers，the basic procedure of *AutoML* can be shown as the following.
 
-![avatar](resources/framework.jpg)
+<div style="text-align: center">
+<img src="resources/procedure.jpg" width="600px" atl="figure1"/>
+</div>
 
 In recent years, *AutoML* has attracted much attention from a bunch of giant companies and start-up companies. An overview comparison of some of them can be summarized to the following table.
 
-| Company | Automated Feature Engineering | Hyperparameter Optimization | Architecture Search |
-| :-: | :-: | :-: | :-: |
-| 4paradigm | √ | √ | × |
-| Alibaba | × | √ | × |
-| Baidu | × | × | √ |
-| Google | × | √ | √ |
-| H2O.ai | √ | √ | × |
-| Microsoft | × | √ | √ |
-| RapidMiner | √ | √ | × |
-| Tencent | × | √ | × |
-| Transwarp | √ | √ | √ |
+| Company | Automated Feature Engineering | Hyperparameter Optimization | Neural Architecture Search |
+| :--------: | :--------: | :--------: | :--------: |
+| 4paradigm  |     √      |      √     |      ×     |
+| Alibaba    |     ×      |      √     |      ×     |
+| Baidu      |     ×      |      ×     |      √     |
+| Google     |     ×      |      √     |      √     |
+| H2O.ai     |     √      |      √     |      ×     |
+| Microsoft  |     ×      |      √     |      √     |
+| RapidMiner |     √      |      √     |      ×     |
+| Tencent    |     ×      |      √     |      ×     |
+| Transwarp  |     √      |      √     |      √     |
+
 
 # Table of Contents
-
 + [Papers](#papers)
   - [Automated Feature Engineering](#automated-feature-engineering)
     - [Expand Reduce](#expand-reduce)
@@ -234,30 +236,35 @@ In recent years, *AutoML* has attracted much attention from a bunch of giant com
 + Tune | `Python` | `Open Source` | [`Code`](https://github.com/ray-project/ray/tree/master/python/ray/tune) | [`Docs`](http://ray.readthedocs.io/en/latest/tune.html)
 + Xcessiv | `Python` | `Open Source` | [`Code`](https://github.com/reiinakano/xcessiv)
 
-# Prominent Researchers
-+ [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/index.html) | University of Freiburg
-+ [Martin Wistuba](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Martin.Wistuba) | IBM Research
-+ (feel free to fork this project and send a pull request to add your name, if you feel you should be on this list!)
 
 # Acknowledgement
 Special thanks to everyone who contributed to this project.
-+ [derekflint](https://github.com/derekflint)
-+ [endymecy](https://github.com/endymecy)
-+ [Eric](https://github.com/ffengENG)
-+ [Randy Olson](https://github.com/rhiever)
-+ [Richard Liaw](https://github.com/richardliaw)
-+ [Saket Maheshwary](https://github.com/sakimahesh)
-+ [shaido987](https://github.com/shaido987)
-+ [Slava Kurilyak](https://github.com/slavakurilyak)
-+ [sophia-wright-blue](https://github.com/sophia-wright-blue)
-+ [tengben0905](https://github.com/tengben0905)
-+ [xuehui](https://github.com/xuehui1991)
-+ [Yihui He](https://github.com/yihui-he)
-+ [Lilian Besson (Naereen)](https://github.com/Naereen)
 
-# Licenses
-Awesome-AutoML-Papers is available under Apache Licenses 2.0.
+| Name | Short Bio |
+| :--------: | :--------: |
+| [Alexander Robles](https://github.com/Alro10) | PhD Student @UNICAMP-Brazil |
+| [derekflint](https://github.com/derekflint) | |
+| [Eric](https://github.com/ffengENG) | |
+| [Erin LeDell](https://github.com/ledell) | Chief Machine Learning Scientist @H2O.ai |
+| [fwcore](https://github.com/fwcore) | |
+| [koala](https://github.com/endymecy) | Senior Researcher @Tencent |
+| [Lilian Besson](https://github.com/naereen) | PhD Student @CentraleSupélec |
+| [罗磊](https://github.com/luoleicn) | |
+| [Richard Liaw](https://github.com/richardliaw) | PhD Student @UC Berkeley|
+| [Randy Olson](https://github.com/rhiever) | Lead Data Scientist @LifeEGX |
+| [Slava Kurilyak](https://github.com/slavakurilyak) | Founder, CEO @Produvia |
+| [Saket Maheshwary](https://github.com/saket-maheshwary) | AI Researcher |
+| [shaido987](https://github.com/shaido987) | |
+| [sophia-wright-blue](https://github.com/sophia-wright-blue) | |
+| [tengben0905](https://github.com/tengben0905) | |
+| [xuehui](https://github.com/xuehui1991) | @Microsoft |
+| [Yihui He](https://github.com/yihui-he) | Grad Student @CMU  |
+
 
 # Contact & Feedback
 If you have any suggestions (missing papers, new papers, key researchers or typos), feel free to pull a request. Also you can mail to:
-+ hibayesian (hibayesian@gmail.com).
++ Mark Lin (hibayesian@gmail.com).
+
+
+# Licenses
+Awesome-AutoML-Papers is available under Apache Licenses 2.0.
