@@ -183,22 +183,21 @@ In recent years, *AutoML* has attracted much attention from a bunch of giant com
 + 2017 | Why Meta-learning is Crucial for Further Advances of Artificial Intelligence? | [`Link`](https://chatbotslife.com/why-meta-learning-is-crucial-for-further-advances-of-artificial-intelligence-c2df55959adf)
 
 # Slides
-### Automated Feature Engineering
-+ Automated Feature Engineering for Predictive Modeling | Udyan Khurana, etc al. | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-automated-feature-engineering-for-predictive-modeling.pdf)
-### Hyperparameter Optimization
-#### Bayesian Optimization
-+ A Tutorial on Bayesian Optimization for Machine Learning | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-a-tutorial-on-bayesian-optimization-for-machine-learning.pdf)
-+ Bayesian Optimisation | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-bayesian-optimisation.pdf)
+| Type    | Slide Name | Authors    | Link       |
+| :--------: | :--------: | :--------: | :--------: |
+| AutoFE     | Automated Feature Engineering for Predictive Modeling | Udyan Khurana, etc al. | [`Download`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-automated-feature-engineering-for-predictive-modeling.pdf) |
+| HPO     | A Tutorial on Bayesian Optimization for Machine Learning | Ryan P. Adams | [`Download`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-a-tutorial-on-bayesian-optimization-for-machine-learning.pdf) |
+| HPO     | Bayesian Optimisation | Gilles Louppe | [`Download`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-bayesian-optimisation.pdf) |
+
 
 # Books
-| Year of Publication     | Subject    | Book Title | Authors    | Publisher  | Link       |
+| Year of Publication     | Type    | Book Title | Authors    | Publisher  | Link       |
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | 2009       | Meta Learning | Metalearning - Applications to Data Mining | Brazdil, P., Giraud Carrier, C., Soares, C., Vilalta, R. | Springer | [`Download`](http://www.springer.com/la/book/9783540732624) |
 | 2019       | HPO, Meta Learning, NAS | AutoML: Methods, Systems, Challenges | Frank Hutter, Lars Kotthoff, Joaquin Vanschoren |         | [`Download`](https://www.automl.org/book/) | 
 
 
 # Projects
-
 | Project    | Type       | Language   | License    | Link       |
 | :--------: | :--------: | :--------: | :--------: | :--------: |
 | AdaNet     | NAS        | Python     | Apache-2.0 | [`Github`](https://github.com/tensorflow/adanet) |
