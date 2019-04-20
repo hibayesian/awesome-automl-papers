@@ -191,8 +191,11 @@ In recent years, *AutoML* has attracted much attention from a bunch of giant com
 + Bayesian Optimisation | [`PDF`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-bayesian-optimisation.pdf)
 
 # Books
-### Meta Learning
-+ 2009 | Metalearning - Applications to Data Mining | Springer | [`PDF`](http://www.springer.com/la/book/9783540732624)
+| Year of Publication     | Subject    | Book Title | Authors    | Publisher  | Link       |
+| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| 2009       | Meta Learning | Metalearning - Applications to Data Mining | Brazdil, P., Giraud Carrier, C., Soares, C., Vilalta, R. | Springer | [`Download`](http://www.springer.com/la/book/9783540732624) |
+| 2019       | HPO, Meta Learning, NAS | AutoML: Methods, Systems, Challenges | Frank Hutter, Lars Kotthoff, Joaquin Vanschoren |         | [`Download`](https://www.automl.org/book/) | 
+
 
 # Projects
 
