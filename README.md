@@ -32,7 +32,7 @@ In recent years, *AutoML* has attracted much attention from a bunch of giant com
 | 4paradigm  |     √      |      √     |      ×     |
 | Alibaba    |     ×      |      √     |      ×     |
 | Baidu      |     ×      |      ×     |      √     |
-| Google     |     ×      |      √     |      √     |
+| Google     |     √      |      √     |      √     |
 | H2O.ai     |     √      |      √     |      ×     |
 | Microsoft  |     ×      |      √     |      √     |
 | RapidMiner |     √      |      √     |      ×     |
@@ -232,6 +232,7 @@ In recent years, *AutoML* has attracted much attention from a bunch of giant com
 | neptune     | HPO       | Python     | Commercial | [`Homepage`](https://neptune.ml/) |
 | NNI         | HPO, NAS  | Python     | MIT        | [`Github`](https://github.com/Microsoft/nni) |
 | Optunity    | HPO       | Python     | [`License`](https://github.com/claesenm/optunity/blob/master/LICENSE.txt) | [`Github`](https://github.com/claesenm/optunity) |
+| R2.ai       | HPO       |            | Commercial | [`Homepage`](https://r2.ai/) |
 | RBFOpt      | HPO       | Python     | [`License`](https://github.com/coin-or/rbfopt/blob/master/LICENSE) | [`Github`](https://github.com/coin-or/rbfopt) |
 | RoBO        | HPO       | Python     | BSD-3-Clause | [`Github`](https://github.com/automl/RoBO) |
 | Scikit-Optimize | HPO   | Python     | [`License`](https://github.com/scikit-optimize/scikit-optimize/blob/master/LICENSE.md) | [`Github`](https://github.com/scikit-optimize/scikit-optimize) |
