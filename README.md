@@ -27,7 +27,7 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 
 In recent years, *AutoML* has attracted much attention from a bunch of giant companies and start-up companies. An overview comparison of some of them can be summarized to the following table.
 
-| Company | Automated Feature Engineering | Hyperparameter Optimization | Neural Architecture Search |
+| Company    | AutoFE     | HPO        | NAS        |
 | :--------: | :--------: | :--------: | :--------: |
 | 4paradigm  |     √      |      √     |      ×     |
 | Alibaba    |     ×      |      √     |      ×     |
@@ -195,52 +195,58 @@ In recent years, *AutoML* has attracted much attention from a bunch of giant com
 + 2009 | Metalearning - Applications to Data Mining | Springer | [`PDF`](http://www.springer.com/la/book/9783540732624)
 
 # Projects
-+ AdaNet | `Python` | `Open Source` | [`Code`](https://github.com/tensorflow/adanet)
-+ Advisor | `Python` | `Open Source` | [`Code`](https://github.com/tobegit3hub/advisor)
-+ Amla | `Python` | `Open Source` | [`Code`](https://github.com/CiscoAI/amla)
-+ ATM | `Python` | `Open Source` | [`Code`](https://github.com/HDI-Project/ATM)
-+ Auger | `Python` | `Commercial` | [`Link`](https://auger.ai)
-+ Auto-Keras | `Python` | `Open Source` | [`Code`](https://github.com/jhfjhfj1/autokeras)
-+ Auto-sklearn | `Python` | `Open Source` | [`Code`](https://github.com/automl/auto-sklearn)
-+ Auto-WEKA | `Java` | `Open Source` | [`Code`](https://github.com/automl/autoweka)
-+ Auto_ml | `Python` | `Open Source` | [`Code`](https://github.com/ClimbsRocks/auto_ml)
-+ BayesianOptimization | `Python` | `Open Source` | [`Code`](https://github.com/fmfn/BayesianOptimization)
-+ BayesOpt | `C++` | `Open Source` | [`Code`](https://github.com/rmcantin/bayesopt)
-+ Cloud AutoML | `Python` | `Commercial`| [`Link`](https://cloud.google.com/automl/)
-+ Comet | `Python` | `Commercial`| [`Link`](https://www.comet.ml/)
-+ DataRobot | `Python` | `Commercial` | [`Link`](https://www.datarobot.com/)
-+ DEvol | `Python` | `Open Source` | [`Code`](https://github.com/joeddav/devol)
-+ Driverless AI | `Python` | `Commercial` | [`Link`](https://www.h2o.ai/products/h2o-driverless-ai/)
-+ FAR-HO | `Python` | `Open Source` | [`Code`](https://github.com/lucfra/FAR-HO)
-+ H2O AutoML | `Python, R, Java, Scala` | `Open Source` | [`Code`](https://github.com/h2oai/h2o-3/)
-+ HpBandSter | `Python` | `Open Source` | [`Code`](https://github.com/automl/HpBandSter)
-+ HyperBand | `Python` | `Open Source` | [`Code`](https://github.com/zygmuntz/hyperband)
-+ Hyperopt | `Python` | `Open Source` | [`Code`](https://github.com/hyperopt/hyperopt)
-+ Hyperopt-sklearn | `Python` | `Open Source` | [`Code`](https://github.com/hyperopt/hyperopt-sklearn)
-+ Hyperparameter_hunter | `Python` | `Open Source` | [`Code`](https://github.com/HunterMcGushion/hyperparameter_hunter)
-+ Katib | `Python` | `Open Source` | [`Code`](https://github.com/kubeflow/katib)
-+ MateLabs | `Python` | `Commercial` | [`Link`](http://matelabs.in/)
-+ Milano | `Python` | `Open Source` | [`Code`](https://github.com/NVIDIA/Milano)
-+ MLJAR | `Python` | `Commercial` | [`Link`](https://mljar.com/)
-+ Nasbot | `Python` | `Open Source` | [`Code`](https://github.com/kirthevasank/nasbot)
-+ Neptune | `Python` | `Commercial` | [`Link`](https://neptune.ml/)
-+ NNI | `Python & Typescript` | `Open Source` | [`Code`](https://github.com/Microsoft/nni)
-+ Optunity | `Python` | `Open Source` | [`Code`](https://github.com/claesenm/optunity)
-+ Rbfopt | `Python` | `Open Source` | [`Code`](https://github.com/coin-or/rbfopt)
-+ RoBO | `Python` | `Open Source` | [`Code`](https://github.com/automl/RoBO)
-+ Scikit-Optimize | `Python` | `Open Source` | [`Code`](https://github.com/scikit-optimize/scikit-optimize)
-+ SigOpt | `Python` | `Commercial` | [`Link`](https://sigopt.com/)
-+ SMAC3 | `Python` | `Open Source` | [`Code`](https://github.com/automl/SMAC3)
-+ TPOT | `Python` | `Open Source` | [`Code`](https://github.com/rhiever/tpot)
-+ TransmogrifAI | `Scala` | `Open Source` | [`Code`](https://github.com/salesforce/TransmogrifAI)
-+ Tune | `Python` | `Open Source` | [`Code`](https://github.com/ray-project/ray/tree/master/python/ray/tune) | [`Docs`](http://ray.readthedocs.io/en/latest/tune.html)
-+ Xcessiv | `Python` | `Open Source` | [`Code`](https://github.com/reiinakano/xcessiv)
+
+| Project    | Type       | Language   | License    | Link       |
+| :--------: | :--------: | :--------: | :--------: | :--------: |
+| AdaNet     | NAS        | Python     | Apache-2.0 | [`Github`](https://github.com/tensorflow/adanet) |
+| Advisor    | HPO        | Python     | Apache-2.0 | [`Github`](https://github.com/tobegit3hub/advisor) |
+| AMLA       | HPO, NAS   | Python     | Apache-2.0 | [`Github`](https://github.com/CiscoAI/amla) |
+| ATM        | HPO        | Python     | MIT        | [`Github`](https://github.com/HDI-Project/ATM) |
+| Auger      | HPO        | Python     | Commercial | [`Homepage`](https://auger.ai)
+| Auto-Keras | NAS        | Python     | [`License`](https://github.com/keras-team/autokeras/blob/master/LICENSE.txt) | [`Github`](https://github.com/keras-team/autokeras) |
+| AutoML Vision | NAS     | Python     | Commercial | [`Homepage`](https://cloud.google.com/vision/) |
+| AutoML Video Intelligence            | NAS        | Python    | Commercial | [`Homepage`](https://cloud.google.com/video-intelligence/) |
+| AutoML Natural Language | NAS        | Python     | Commercial | [`Homepage`](https://cloud.google.com/natural-language/) |
+| AutoML Translation      | NAS        | Python     | Commercial | [`Homepage`](https://cloud.google.com/translate/) |
+| AutoML Tables           | AutoFE, HPO             | Python    | Commercial | [`Homepage`](https://cloud.google.com/automl-tables/) |
+| auto-sklearn | HPO      | Python     | [`License`](https://github.com/automl/auto-sklearn/blob/master/LICENSE.txt) | [`Github`](https://github.com/automl/auto-sklearn) |
+| auto_ml     | HPO       | Python     | MIT        | [`Github`](https://github.com/ClimbsRocks/auto_ml) |
+| BayesianOptimization | HPO | Python  | MIT        | [`Github`](https://github.com/fmfn/BayesianOptimization) |
+| BayesOpt    | HPO       | C++        | AGPL-3.0   | [`Github`](https://github.com/rmcantin/bayesopt) |
+| comet       | HPO       | Python     | Commercial | [`Homepage`](https://www.comet.ml) |
+| DataRobot   | HPO       | Python     | Commercial | [`Homepage`](https://www.datarobot.com/) |
+| DEvol       | NAS       | Python     | MIT        | [`Github`](https://github.com/joeddav/devol) |
+| Driverless AI | AutoFE  | Python     | Commercial | [`Homepage`](https://www.h2o.ai/products/h2o-driverless-ai/) |
+| FAR-HO      | HPO       | Python     | MIT        | [`Github`](https://github.com/lucfra/FAR-HO) |
+| H2O AutoML  | HPO       | Python, R, Java, Scala | Apache-2.0 | [`Github`](https://github.com/h2oai/h2o-3/) |
+| HpBandSter  | HPO       | Python     | BSD-3-Clause | [`Github`](https://github.com/automl/HpBandSter) |
+| HyperBand   | HPO       | Python     | [`License`](https://github.com/zygmuntz/hyperband/blob/master/LICENSE) | [`Github`](https://github.com/zygmuntz/hyperband) |
+| Hyperopt    | HPO       | Python     | [`License`](https://github.com/hyperopt/hyperopt/blob/master/LICENSE.txt) | [`Github`](https://github.com/hyperopt/hyperopt) |
+| Hyperopt-sklearn | HPO  | Python    | [`License`](https://github.com/hyperopt/hyperopt-sklearn/blob/master/LICENSE.txt) | [`Github`](https://github.com/hyperopt/hyperopt-sklearn) |
+| Hyperparameter Hunter | HPO | Python | MIT        | [`Github`](https://github.com/HunterMcGushion/hyperparameter_hunter) |
+| Katib       | HPO       | Python     | Apache-2.0 | [`Github`](https://github.com/kubeflow/katib) |
+| MateLabs    | HPO       | Python     | Commercial | [`Github`](http://matelabs.in/) |
+| Milano      | HPO       | Python     | Apache-2.0 | [`Github`](https://github.com/NVIDIA/Milano) |
+| MLJAR       | HPO       | Python     | Commercial | [`Homepage`](https://mljar.com/) |
+| nasbot      | NAS       | Python     | MIT        | [`Github`](https://github.com/kirthevasank/nasbot) |
+| neptune     | HPO       | Python     | Commercial | [`Homepage`](https://neptune.ml/) |
+| NNI         | HPO, NAS  | Python     | MIT        | [`Github`](https://github.com/Microsoft/nni) |
+| Optunity    | HPO       | Python     | [`License`](https://github.com/claesenm/optunity/blob/master/LICENSE.txt) | [`Github`](https://github.com/claesenm/optunity) |
+| RBFOpt      | HPO       | Python     | [`License`](https://github.com/coin-or/rbfopt/blob/master/LICENSE) | [`Github`](https://github.com/coin-or/rbfopt) |
+| RoBO        | HPO       | Python     | BSD-3-Clause | [`Github`](https://github.com/automl/RoBO) |
+| Scikit-Optimize | HPO   | Python     | [`License`](https://github.com/scikit-optimize/scikit-optimize/blob/master/LICENSE.md) | [`Github`](https://github.com/scikit-optimize/scikit-optimize) |
+| SigOpt      | HPO       | Python     | Commercial | [`Homepage`](https://sigopt.com/) |
+| SMAC3       | HPO       | Python     | [`License`](https://github.com/automl/SMAC3/blob/master/LICENSE) | [`Github`](https://github.com/automl/SMAC3) |
+| TPOT        | AutoFE, HPO | Python   | LGPL-3.0   | [`Github`](https://github.com/rhiever/tpot) | 
+| TransmogrifAI | HPO     | Scala      | BSD-3-Clause | [`Github`](https://github.com/salesforce/TransmogrifAI) |
+| Tune        | HPO       | Python     | Apache-2.0 | [`Github`](https://github.com/ray-project/ray/tree/master/python/ray/tune) |
+| Xcessiv     | HPO       | Python     | Apache-2.0 | [`Github`](https://github.com/reiinakano/xcessiv) |
 
 
 # Acknowledgement
 Special thanks to everyone who contributed to this project.
 
-| Name | Short Bio |
+| Name       | Bio        |
 | :--------: | :--------: |
 | [Alexander Robles](https://github.com/Alro10) | PhD Student @UNICAMP-Brazil |
 | [derekflint](https://github.com/derekflint) | |
