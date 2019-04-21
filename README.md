@@ -25,7 +25,8 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 <img src="resources/procedure.jpg" width="600px" atl="figure1"/>
 </div>
 
-In recent years, *AutoML* has attracted much attention from a bunch of giant companies and start-up companies. An overview comparison of some of them can be summarized to the following table.
+
+*AutoML* approaches are already mature enough to rival and sometimes even outperform human machine learning experts. Put simply, *AutoML* can lead to improved performance while saving substantial amounts of time and money, as machine learning experts are both hard to find and expensive. As a result, commercial interest in *AutoML* has grown dramatically in recent years, and several major tech companies and start-up companies are now developing their own *AutoML* systems. An overview comparison of some of them can be summarized to the following table.
 
 | Company    | AutoFE     | HPO        | NAS        |
 | :--------: | :--------: | :--------: | :--------: |
@@ -38,6 +39,14 @@ In recent years, *AutoML* has attracted much attention from a bunch of giant com
 | RapidMiner |     √      |      √     |      ×     |
 | Tencent    |     ×      |      √     |      ×     |
 | Transwarp  |     √      |      √     |      √     |
+
+
+**Awesome-AutoML-Papers** includes very up-to-date overviews of the bread-and-butter techniques we need in *AutoML*:
++ Automated Data Clean (Auto Clean)
++ Automated Feature Enginnering (Auto FE)
++ Hyperparameter Optimization (HPO)
++ Meta-Learning
++ Neural Architecture Search (NAS)
 
 
 <div style="text-align: center">
