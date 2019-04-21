@@ -40,6 +40,11 @@ In recent years, *AutoML* has attracted much attention from a bunch of giant com
 | Transwarp  |     √      |      √     |      √     |
 
 
+<div style="text-align: center">
+<img src="resources/automl.png" atl="automl"/>
+</div>
+
+
 # Table of Contents
 + [Papers](#papers)
   - [Automated Feature Engineering](#automated-feature-engineering)
@@ -184,14 +189,6 @@ In recent years, *AutoML* has attracted much attention from a bunch of giant com
 | Meta-Learning | Why Meta-learning is Crucial for Further Advances of Artificial Intelligence? | [`Link`](https://chatbotslife.com/why-meta-learning-is-crucial-for-further-advances-of-artificial-intelligence-c2df55959adf) |
 
 
-# Slides
-| Type    | Slide Title | Authors    | Link       |
-| :--------: | :--------: | :--------: | :--------: |
-| AutoFE     | Automated Feature Engineering for Predictive Modeling | Udyan Khurana, etc al. | [`Download`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-automated-feature-engineering-for-predictive-modeling.pdf) |
-| HPO     | A Tutorial on Bayesian Optimization for Machine Learning | Ryan P. Adams | [`Download`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-a-tutorial-on-bayesian-optimization-for-machine-learning.pdf) |
-| HPO     | Bayesian Optimisation | Gilles Louppe | [`Download`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-bayesian-optimisation.pdf) |
-
-
 # Books
 | Year of Publication     | Type    | Book Title | Authors    | Publisher  | Link       |
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
@@ -246,6 +243,14 @@ In recent years, *AutoML* has attracted much attention from a bunch of giant com
 | TransmogrifAI | HPO     | Scala      | BSD-3-Clause | [`Github`](https://github.com/salesforce/TransmogrifAI) |
 | Tune        | HPO       | Python     | Apache-2.0 | [`Github`](https://github.com/ray-project/ray/tree/master/python/ray/tune) |
 | Xcessiv     | HPO       | Python     | Apache-2.0 | [`Github`](https://github.com/reiinakano/xcessiv) |
+
+
+# Slides
+| Type    | Slide Title | Authors    | Link       |
+| :--------: | :--------: | :--------: | :--------: |
+| AutoFE     | Automated Feature Engineering for Predictive Modeling | Udyan Khurana, etc al. | [`Download`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-automated-feature-engineering-for-predictive-modeling.pdf) |
+| HPO     | A Tutorial on Bayesian Optimization for Machine Learning | Ryan P. Adams | [`Download`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-a-tutorial-on-bayesian-optimization-for-machine-learning.pdf) |
+| HPO     | Bayesian Optimisation | Gilles Louppe | [`Download`](https://github.com/hibayesian/awesome-automl-papers/blob/master/resources/slides/%5Bslides%5D-bayesian-optimisation.pdf) |
 
 
 # Acknowledgement
