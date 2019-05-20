@@ -127,6 +127,7 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
   - 2018 | Efficient Neural Architecture Search with Network Morphism | Haifeng Jin, et al. | arXiv | [`PDF`](https://arxiv.org/abs/1806.10282)
 + #### Continuous Optimization
   - 2018 | Neural Architecture Optimization | Renqian Luo, et al. | arXiv | [`PDF`](https://arxiv.org/abs/1808.07233)
+  - 2019 | DARTS: Differentiable Architecture Search | Hanxiao Liu, et al. | ICLR | [`PDF`](https://arxiv.org/abs/1806.09055)
 
 ### Frameworks
 + 2019 | Evolutionary Neural AutoML for Deep Learning | Jason Liang, et al. | arXiv | [`PDF`](https://arxiv.org/abs/1902.06827)
