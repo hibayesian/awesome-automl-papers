@@ -56,6 +56,7 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 
 # Table of Contents
 + [Papers](#papers)
+  - [Surveys](#surveys)
   - [Automated Feature Engineering](#automated-feature-engineering)
     - [Expand Reduce](#expand-reduce)
     - [Hierarchical Organization of Transformations](#hierarchical-organization-of-transformations)
@@ -94,6 +95,10 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 + [Prominent Researchers](#prominent-researchers)
 
 # Papers
+### Surveys
++ 2019 | Survey on Automated Machine Learning | Marc Zoeller, Marco F. Huber | arXiv | [`PDF`](https://arxiv.org/pdf/1904.12054.pdf)
++ 2019 | Automated Machine Learning: State-of-The-Art and Open Challenges | Radwa Elshawi, et al. | arXiv | [`PDF`](https://arxiv.org/pdf/1906.02287.pdf)
++ 2018 | Taking Human out of Learning Applications: A Survey on Automated Machine Learning | Quanming Yao, et al. | arXiv | [`PDF`](https://arxiv.org/pdf/1810.13306.pdf)
 ### Automated Feature Engineering
 + #### Expand Reduce
   - 2017 | AutoLearn — Automated Feature Generation and Selection | Ambika Kaul, et al. | ICDM | [`PDF`](https://ieeexplore.ieee.org/document/8215494/)
