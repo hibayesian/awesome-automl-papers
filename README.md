@@ -98,6 +98,7 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 ### Surveys
 + 2019 | Survey on Automated Machine Learning | Marc Zoeller, Marco F. Huber | arXiv | [`PDF`](https://arxiv.org/pdf/1904.12054.pdf)
 + 2019 | Automated Machine Learning: State-of-The-Art and Open Challenges | Radwa Elshawi, et al. | arXiv | [`PDF`](https://arxiv.org/pdf/1906.02287.pdf)
++ 2019 | Automatic Machine Learning: Methods, Systems, Challenges | Frank Hutter et al. | Automated Machine Learning | [`PDF`](https://www.automl.org/wp-content/uploads/2018/12/automl_book.pdf)
 + 2018 | Taking Human out of Learning Applications: A Survey on Automated Machine Learning | Quanming Yao, et al. | arXiv | [`PDF`](https://arxiv.org/pdf/1810.13306.pdf)
 ### Automated Feature Engineering
 + #### Expand Reduce
