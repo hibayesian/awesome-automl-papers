@@ -191,9 +191,6 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 - 2017 | Automatic Frankensteining: Creating Complex Ensembles Autonomously | Martin Wistuba, et al. | SIAM | [`PDF`](http://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.83)
 
 # Tutorials
-### AutoML
-+ 2019 | 6 Levels to AutoML | by Bojan Tunguz | Kaggle Days San Francisco | [`Video`](https://www.youtube.com/watch?v=wsDKJedfqSQ&t=296s)
-
 ### Bayesian Optimization
 + 2010 | A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning | [`PDF`](https://arxiv.org/pdf/1012.2599v1.pdf)
 ### Meta Learning
