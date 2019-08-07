@@ -191,6 +191,9 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 - 2017 | Automatic Frankensteining: Creating Complex Ensembles Autonomously | Martin Wistuba, et al. | SIAM | [`PDF`](http://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.83)
 
 # Tutorials
+### AutoML
++ 2019 | 6 Levels to AutoML | by Bojan Tunguz | Kaggle Days San Francisco | [`Video`](https://www.youtube.com/watch?v=wsDKJedfqSQ&t=296s)
+
 ### Bayesian Optimization
 + 2010 | A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning | [`PDF`](https://arxiv.org/pdf/1012.2599v1.pdf)
 ### Meta Learning
@@ -209,7 +212,7 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 | Year of Publication     | Type    | Book Title | Authors    | Publisher  | Link       |
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | 2009       | Meta-Learning | Metalearning - Applications to Data Mining | Brazdil, P., Giraud Carrier, C., Soares, C., Vilalta, R. | Springer | [`Download`](http://www.springer.com/la/book/9783540732624) |
-| 2019       | HPO, Meta-Learning, NAS | AutoML: Methods, Systems, Challenges | Frank Hutter, Lars Kotthoff, Joaquin Vanschoren |         | [`Download`](https://www.automl.org/book/) | 
+| 2019       | HPO, Meta-Learning, NAS | AutoML: Methods, Systems, Challenges | Frank Hutter, Lars Kotthoff, Joaquin Vanschoren |         | [`Download`](https://www.automl.org/book/) |
 
 
 # Projects
@@ -255,7 +258,7 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 | Scikit-Optimize | HPO   | Python     | [`License`](https://github.com/scikit-optimize/scikit-optimize/blob/master/LICENSE.md) | [`Github`](https://github.com/scikit-optimize/scikit-optimize) |
 | SigOpt      | HPO       | Python     | Commercial | [`Homepage`](https://sigopt.com/) |
 | SMAC3       | HPO       | Python     | [`License`](https://github.com/automl/SMAC3/blob/master/LICENSE) | [`Github`](https://github.com/automl/SMAC3) |
-| TPOT        | AutoFE, HPO | Python   | LGPL-3.0   | [`Github`](https://github.com/rhiever/tpot) | 
+| TPOT        | AutoFE, HPO | Python   | LGPL-3.0   | [`Github`](https://github.com/rhiever/tpot) |
 | TransmogrifAI | HPO     | Scala      | BSD-3-Clause | [`Github`](https://github.com/salesforce/TransmogrifAI) |
 | Tune        | HPO       | Python     | Apache-2.0 | [`Github`](https://github.com/ray-project/ray/tree/master/python/ray/tune) |
 | Xcessiv     | HPO       | Python     | Apache-2.0 | [`Github`](https://github.com/reiinakano/xcessiv) |
