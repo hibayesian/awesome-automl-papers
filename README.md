@@ -234,6 +234,7 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 | comet       | HPO       | Python     | Commercial | [`Homepage`](https://www.comet.ml) |
 | DataRobot   | HPO       | Python     | Commercial | [`Homepage`](https://www.datarobot.com/) |
 | DEvol       | NAS       | Python     | MIT        | [`Github`](https://github.com/joeddav/devol) |
+| DeepArchitect | NAS     | Python     | MIT        | [`Github`](https://github.com/negrinho/deep_architect) |
 | Driverless AI | AutoFE  | Python     | Commercial | [`Homepage`](https://www.h2o.ai/products/h2o-driverless-ai/) |
 | FAR-HO      | HPO       | Python     | MIT        | [`Github`](https://github.com/lucfra/FAR-HO) |
 | H2O AutoML  | HPO       | Python, R, Java, Scala | Apache-2.0 | [`Github`](https://github.com/h2oai/h2o-3/) |
