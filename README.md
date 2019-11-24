@@ -43,7 +43,7 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 
 **Awesome-AutoML-Papers** includes very up-to-date overviews of the bread-and-butter techniques we need in *AutoML*:
 + Automated Data Clean (Auto Clean)
-+ Automated Feature Enginnering (Auto FE)
++ Automated Feature Engineering (Auto FE)
 + Hyperparameter Optimization (HPO)
 + Meta-Learning
 + Neural Architecture Search (NAS)
