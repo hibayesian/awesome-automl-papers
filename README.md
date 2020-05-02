@@ -38,7 +38,6 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 | Microsoft  |     ×      |      √     |      √     |
 | RapidMiner |     √      |      √     |      ×     |
 | Tencent    |     ×      |      √     |      ×     |
-| Transwarp  |     √      |      √     |      √     |
 
 
 **Awesome-AutoML-Papers** includes very up-to-date overviews of the bread-and-butter techniques we need in *AutoML*:
