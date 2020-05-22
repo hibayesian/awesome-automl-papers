@@ -293,11 +293,11 @@ Special thanks to everyone who contributed to this project.
 | :--------: | :--------: |
 | [Alexander Robles](https://github.com/Alro10) | PhD Student @UNICAMP-Brazil |
 | [derekflint](https://github.com/derekflint) | |
+| [endymecy](https://github.com/endymecy) | Senior Researcher @Tencent |
 | [Eric](https://github.com/ffengENG) | |
 | [Erin LeDell](https://github.com/ledell) | Chief Machine Learning Scientist @H2O.ai |
 | [fwcore](https://github.com/fwcore) | |
 | [Gaurav Mittal](https://github.com/g1910) | |
-| [koala](https://github.com/endymecy) | Senior Researcher @Tencent |
 | [Lilian Besson](https://github.com/naereen) | PhD Student @CentraleSupélec |
 | [罗磊](https://github.com/luoleicn) | |
 | [Marc](https://github.com/Ennosigaeon) | |
