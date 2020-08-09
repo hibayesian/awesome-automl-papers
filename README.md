@@ -67,6 +67,8 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
     - [Meta Learning](#meta-learning-1)
     - [Reinforcement Learning](#reinforcement-learning-1)
     - [Transfer Learning](#transfer-learning)
+    - [Network Morphism](#network-morphism)
+    - [Continuous Optimization](#continuous-optimization)
   - [Hyperparameter Optimization](#hyperparameter-optimization)
     - [Bayesian Optimization](#bayesian-optimization)
     - [Evolutionary Algorithms](#evolutionary-algorithms-1)
