@@ -302,6 +302,7 @@ Special thanks to everyone who contributed to this project.
 | [Erin LeDell](https://github.com/ledell) | Chief Machine Learning Scientist @H2O.ai |
 | [fwcore](https://github.com/fwcore) | |
 | [Gaurav Mittal](https://github.com/g1910) | |
+| [Kaustubh Damania](https://github.com/KaustubhDamania) | |
 | [Lilian Besson](https://github.com/naereen) | PhD Student @CentraleSupélec |
 | [罗磊](https://github.com/luoleicn) | |
 | [Marc](https://github.com/Ennosigaeon) | |
