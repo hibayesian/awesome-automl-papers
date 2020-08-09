@@ -89,9 +89,9 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
   - [Bayesian Optimization](#bayesian-optimization)
   - [Meta Learning](#meta-learning)
 + [Slides](#slides)
-  - [Bayesian Optimization](#bayesian-optimization)
+  - [Bayesian Optimization](#slides)
 + [Books](#books)
-  - [Meta Learning](#meta-learning)
+  - [Meta Learning](#books)
 + [Projects](#projects)
 + [Prominent Researchers](#prominent-researchers)
 
