@@ -64,32 +64,34 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
   - [Architecture Search](#architecture-search)
     - [Evolutionary Algorithms](#evolutionary-algorithms)
     - [Local Search](#local-search)
-    - [Meta Learning](#meta-learning)
-    - [Reinforcement Learning](#reinforcement-learning)
+    - [Meta Learning](#meta-learning-1)
+    - [Reinforcement Learning](#reinforcement-learning-1)
     - [Transfer Learning](#transfer-learning)
+    - [Network Morphism](#network-morphism)
+    - [Continuous Optimization](#continuous-optimization)
   - [Hyperparameter Optimization](#hyperparameter-optimization)
     - [Bayesian Optimization](#bayesian-optimization)
-    - [Evolutionary Algorithms](#evolutionary-algorithms)
+    - [Evolutionary Algorithms](#evolutionary-algorithms-1)
     - [Lipschitz Functions](#lipschitz-functions)
-    - [Local Search](#local-search)
-    - [Meta Learning](#meta-learning)
+    - [Local Search](#local-search-1)
+    - [Meta Learning](#meta-learning-2)
     - [Particle Swarm Optimization](#particle-swarm-optimization)
     - [Random Search](#random-search)
-    - [Transfer Learning](#transfer-learning)
+    - [Transfer Learning](#transfer-learning-1)
   - [Performance Prediction](#performance-prediction)
     - [Performance Prediction](##)
   - [Frameworks](#frameworks)
   - [Miscellaneous](#miscellaneous)
 + [Tutorials](#tutorials)
   - [Bayesian Optimization](#bayesian-optimization)
-  - [Meta Learning](#meta-learning)
+  - [Meta Learning](#meta-learning-3)
 + [Articles](#articles)
   - [Bayesian Optimization](#bayesian-optimization)
   - [Meta Learning](#meta-learning)
 + [Slides](#slides)
-  - [Bayesian Optimization](#bayesian-optimization)
+  - [Bayesian Optimization](#slides)
 + [Books](#books)
-  - [Meta Learning](#meta-learning)
+  - [Meta Learning](#books)
 + [Projects](#projects)
 + [Prominent Researchers](#prominent-researchers)
 
@@ -300,6 +302,7 @@ Special thanks to everyone who contributed to this project.
 | [Erin LeDell](https://github.com/ledell) | Chief Machine Learning Scientist @H2O.ai |
 | [fwcore](https://github.com/fwcore) | |
 | [Gaurav Mittal](https://github.com/g1910) | |
+| [Kaustubh Damania](https://github.com/KaustubhDamania) | |
 | [Lilian Besson](https://github.com/naereen) | PhD Student @CentraleSupélec |
 | [罗磊](https://github.com/luoleicn) | |
 | [Marc](https://github.com/Ennosigaeon) | |
