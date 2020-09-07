@@ -28,16 +28,17 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 
 *AutoML* approaches are already mature enough to rival and sometimes even outperform human machine learning experts. Put simply, *AutoML* can lead to improved performance while saving substantial amounts of time and money, as machine learning experts are both hard to find and expensive. As a result, commercial interest in *AutoML* has grown dramatically in recent years, and several major tech companies and start-up companies are now developing their own *AutoML* systems. An overview comparison of some of them can be summarized to the following table.
 
-| Company    | AutoFE     | HPO        | NAS        |
-| :--------: | :--------: | :--------: | :--------: |
-| 4paradigm  |     √      |      √     |      ×     |
-| Alibaba    |     ×      |      √     |      ×     |
-| Baidu      |     ×      |      ×     |      √     |
-| Google     |     √      |      √     |      √     |
-| H2O.ai     |     √      |      √     |      ×     |
-| Microsoft  |     ×      |      √     |      √     |
-| RapidMiner |     √      |      √     |      ×     |
-| Tencent    |     ×      |      √     |      ×     |
+| Company       | AutoFE     | HPO        | NAS        |
+| :-----------: | :--------: | :--------: | :--------: |
+| 4paradigm     |     √      |      √     |      ×     |
+| Alibaba       |     ×      |      √     |      ×     |
+| Baidu         |     ×      |      ×     |      √     |
+| Determined AI |     ×      |      √     |      √     |
+| Google        |     √      |      √     |      √     |
+| H2O.ai        |     √      |      √     |      ×     |
+| Microsoft     |     ×      |      √     |      √     |
+| RapidMiner    |     √      |      √     |      ×     |
+| Tencent       |     ×      |      √     |      ×     |
 
 
 **Awesome-AutoML-Papers** includes very up-to-date overviews of the bread-and-butter techniques we need in *AutoML*:
