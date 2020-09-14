@@ -250,6 +250,7 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 | DataRobot   | HPO       | Python     | Commercial | [`Homepage`](https://www.datarobot.com/) |
 | DEvol       | NAS       | Python     | MIT        | [`Github`](https://github.com/joeddav/devol) |
 | DeepArchitect | NAS     | Python     | MIT        | [`Github`](https://github.com/negrinho/deep_architect) |
+| Determined | HPO, NAS   | Python     | Apache-2.0 | [`Github`](https://github.com/determined-ai/determined) |
 | Driverless AI | AutoFE  | Python     | Commercial | [`Homepage`](https://www.h2o.ai/products/h2o-driverless-ai/) |
 | FAR-HO      | HPO       | Python     | MIT        | [`Github`](https://github.com/lucfra/FAR-HO) |
 | H2O AutoML  | HPO       | Python, R, Java, Scala | Apache-2.0 | [`Github`](https://github.com/h2oai/h2o-3/) |
@@ -307,6 +308,7 @@ Special thanks to everyone who contributed to this project.
 | [罗磊](https://github.com/luoleicn) | |
 | [Marc](https://github.com/Ennosigaeon) | |
 | [Mohamed Maher](https://github.com/mmaher22) | |
+| [Neil Conway](https://github.com/neilconway) | CTO @Determined AI |
 | [Richard Liaw](https://github.com/richardliaw) | PhD Student @UC Berkeley|
 | [Randy Olson](https://github.com/rhiever) | Lead Data Scientist @LifeEGX |
 | [Slava Kurilyak](https://github.com/slavakurilyak) | Founder, CEO @Produvia |
