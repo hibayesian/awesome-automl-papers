@@ -147,6 +147,8 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 + 2015 | AutoCompete: A Framework for Machine Learning Competitions | Abhishek Thakur, et al. | ICML | [`PDF`](https://arxiv.org/pdf/1507.02188.pdf)
 
 ### Hyperparameter Optimization
++ #### Surveys
+  - 2020 | On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice  | Neurocomputing | [`PDF`](https://arxiv.org/pdf/2007.15745.pdf)
 + #### Bayesian Optimization
   - 2019 | Bayesian Optimization with Unknown Search Space  | NeurIPS | [`PDF`](http://papers.nips.cc/paper/9350-bayesian-optimization-with-unknown-search-space.pdf)
   - 2019 | Constrained Bayesian optimization with noisy experiments | [`PDF`](https://projecteuclid.org/download/pdfview_1/euclid.ba/1533866666)
