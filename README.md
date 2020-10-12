@@ -103,6 +103,7 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 + 2019 | Automated Machine Learning: State-of-The-Art and Open Challenges | Radwa Elshawi, et al. | arXiv | [`PDF`](https://arxiv.org/pdf/1906.02287.pdf)
 + 2018 | Taking Human out of Learning Applications: A Survey on Automated Machine Learning | Quanming Yao, et al. | arXiv | [`PDF`](https://arxiv.org/pdf/1810.13306.pdf)
 + 2020 | On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice | Li Yang, et al. | Neurocomputing | [`PDF`](https://arxiv.org/pdf/2007.15745.pdf)
++ 2020 | Automated Machine Learning--a brief review at the end of the early years | Escalante, H. J. | arXiv | [`PDF`](https://arxiv.org/pdf/2008.08516.pdf)
 ### Automated Feature Engineering
 + #### Expand Reduce
   - 2017 | AutoLearn — Automated Feature Generation and Selection | Ambika Kaul, et al. | ICDM | [`PDF`](https://ieeexplore.ieee.org/document/8215494/)
@@ -205,6 +206,8 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 - 2020 | Automated Machine Learning Techniques for Data Streams | Alexandru-Ionut Imbrea | [`PDF`](https://github.com/AlexImb/automl-streams-research-paper/raw/master/A_Imbrea_AutoML_Data_Streams.pdf)
 - 2018 | Accelerating Neural Architecture Search using Performance Prediction | Bowen Baker, et al. | ICLR | [`PDF`](https://openreview.net/pdf?id=BJypUGZ0Z)
 - 2017 | Automatic Frankensteining: Creating Complex Ensembles Autonomously | Martin Wistuba, et al. | SIAM | [`PDF`](http://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.83)
+- 2018 | Characterizing classification datasets: A study of meta-features for meta-learning | Rivolli, Adriano, et al. | arXiv | [`PDF`](https://arxiv.org/pdf/1808.10406.pdf)
+- 2020 | Putting the Human Back in the AutoML Loop | Xanthopoulos, Iordanis, et al. | EDBT/ICDT | [`PDF`](http://ceur-ws.org/Vol-2578/ETMLP5.pdf)
 
 # Tutorials
 ### Bayesian Optimization
@@ -305,6 +308,7 @@ Special thanks to everyone who contributed to this project.
 | [Erin LeDell](https://github.com/ledell) | Chief Machine Learning Scientist @H2O.ai |
 | [fwcore](https://github.com/fwcore) | |
 | [Gaurav Mittal](https://github.com/g1910) | |
+| [Hernan Ceferino Vazquez](https://github.com/hcvazquez) | PhD, Data Science Expert @MercadoLibre |
 | [Kaustubh Damania](https://github.com/KaustubhDamania) | |
 | [Lilian Besson](https://github.com/naereen) | PhD Student @CentraleSupélec |
 | [罗磊](https://github.com/luoleicn) | |
