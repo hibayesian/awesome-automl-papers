@@ -35,6 +35,7 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 | Baidu         |     ×      |      ×     |      √     |
 | Determined AI |     ×      |      √     |      √     |
 | Google        |     √      |      √     |      √     |
+| DataCanvas    |     √      |      √     |      √     |
 | H2O.ai        |     √      |      √     |      ×     |
 | Microsoft     |     ×      |      √     |      √     |
 | RapidMiner    |     √      |      √     |      ×     |
