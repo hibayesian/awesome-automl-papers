@@ -114,7 +114,7 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 + #### Hierarchical Organization of Transformations
   - 2016 | Cognito: Automated Feature Engineering for Supervised Learning | Udayan Khurana, et al. | ICDMW | [`PDF`](http://ieeexplore.ieee.org/document/7836821/)
 + #### Meta Learning
-  - 2020 | Efficient AutoML Pipeline Search with Matrix and Tensor Factorization | Chengrun Yang, et al. | arXiv | [`PDF`](https://arxiv.org/pdf/2006.04216.pdf)
+  - 2020 | AutoML Pipeline Selection: Efficiently Navigating the Combinatorial Space | Chengrun Yang, et al. | KDD | [`PDF`](https://people.ece.cornell.edu/cy/_papers/tensor_oboe.pdf)
   - 2017 | Learning Feature Engineering for Classification | Fatemeh Nargesian, et al. | IJCAI | [`PDF`](https://www.ijcai.org/proceedings/2017/0352.pdf)
 + #### Reinforcement Learning
   - 2017 | Feature Engineering for Predictive Modeling using Reinforcement Learning | Udayan Khurana, et al. | arXiv | [`PDF`](https://arxiv.org/pdf/1709.07150.pdf)
