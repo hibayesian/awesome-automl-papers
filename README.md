@@ -35,6 +35,7 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 | Baidu         |     ×      |      ×     |      √     |
 | Determined AI |     ×      |      √     |      √     |
 | Google        |     √      |      √     |      √     |
+| DataCanvas    |     √      |      √     |      √     |
 | H2O.ai        |     √      |      √     |      ×     |
 | Microsoft     |     ×      |      √     |      √     |
 | RapidMiner    |     √      |      √     |      ×     |
@@ -248,6 +249,9 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 | AutoML Natural Language | NAS        | Python     | Commercial | [`Homepage`](https://cloud.google.com/natural-language/) |
 | AutoML Translation      | NAS        | Python     | Commercial | [`Homepage`](https://cloud.google.com/translate/) |
 | AutoML Tables           | AutoFE, HPO             | Python    | Commercial | [`Homepage`](https://cloud.google.com/automl-tables/) |
+| HyperGBM                | HPO| Python    | Python | [`Github`](https://github.com/DataCanvasIO/HyperGBM/) |
+| HyperKeras              | NAS        | Python    | Python | [`Github`](https://github.com/DataCanvasIO/HyperKeras/) |
+| Hypernets               | HPO, NAS   | Python    | Python | [`Github`](https://github.com/DataCanvasIO/Hypernets/) |
 | auto-sklearn | HPO      | Python     | [`License`](https://github.com/automl/auto-sklearn/blob/master/LICENSE.txt) | [`Github`](https://github.com/automl/auto-sklearn) |
 | auto_ml     | HPO       | Python     | MIT        | [`Github`](https://github.com/ClimbsRocks/auto_ml) |
 | BayesianOptimization | HPO | Python  | MIT        | [`Github`](https://github.com/fmfn/BayesianOptimization) |
