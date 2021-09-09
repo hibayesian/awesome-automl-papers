@@ -38,6 +38,7 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 | DataCanvas    |     √      |      √     |      √     |
 | H2O.ai        |     √      |      √     |      ×     |
 | Microsoft     |     ×      |      √     |      √     |
+| MLJAR         |     √      |      √     |      √     |
 | RapidMiner    |     √      |      √     |      ×     |
 | Tencent       |     ×      |      √     |      ×     |
 
@@ -273,7 +274,7 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 | Katib       | HPO       | Python     | Apache-2.0 | [`Github`](https://github.com/kubeflow/katib) |
 | MateLabs    | HPO       | Python     | Commercial | [`Github`](http://matelabs.in/) |
 | Milano      | HPO       | Python     | Apache-2.0 | [`Github`](https://github.com/NVIDIA/Milano) |
-| MLJAR       | HPO       | Python     | Commercial | [`Homepage`](https://mljar.com/) |
+| MLJAR       | AutoFE, HPO, NAS       | Python     | MIT | [`Github`](https://github.com/mljar/mljar-supervised) |
 | mlr3automl       | HPO       | R     | LGPL-3.0 | [`GitHub`](https://github.com/a-hanf/mlr3automl) |
 | nasbot      | NAS       | Python     | MIT        | [`Github`](https://github.com/kirthevasank/nasbot) |
 | neptune     | HPO       | Python     | Commercial | [`Homepage`](https://neptune.ml/) |
