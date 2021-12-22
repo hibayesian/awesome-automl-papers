@@ -239,6 +239,11 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 | 2021       | Learning | Automated Machine Learning in Action | Qinquan Song, Haifeng Jin, Xia Hu | Manning Publications        | [`Download`](https://www.manning.com/books/automated-machine-learning-in-action) |
 
 
+# Videos
+| Title    | Author    | Link     |
+| AutoML Basics: Automated Machine Learning in Action | Qinquan Song, Haifeng Jin, Xia Hu | (https://www.youtube.com/watch?v=9KpieG0B7VM) |
+
+
 # Projects
 | Project    | Type       | Language   | License    | Link       |
 | :--------: | :--------: | :--------: | :--------: | :--------: |
