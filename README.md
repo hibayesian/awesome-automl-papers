@@ -303,8 +303,8 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 | SmartML     | HPO       | R          | GPL-3.0    | [`Github`](https://github.com/DataSystemsGroupUT/SmartML) |
 | MLBox     | AutoFE, HPO    | Python          | BSD-3 License    | [`Github`](https://github.com/AxeldeRomblay/MLBox) |
 | AutoAI Watson     | AutoFE, HPO    |      | Commercial    | [`Homepage`](https://www.ibm.com/cloud/watson-studio/autoai) |
-
-
+| Optuna      | HPO       | Python     | MIT        | [`Github`](https://github.com/optuna/optuna) |
+  
 # Slides
 | Type    | Slide Title | Authors    | Link       |
 | :--------: | :--------: | :--------: | :--------: |
